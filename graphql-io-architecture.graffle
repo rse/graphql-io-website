@@ -1,0 +1,5764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationVersion</key>
+	<array>
+		<string>com.omnigroup.OmniGraffle7</string>
+		<string>177.6.0.286920</string>
+	</array>
+	<key>CreationDate</key>
+	<string>2011-09-11 12:35:56 +0000</string>
+	<key>Creator</key>
+	<string>Ralf S. Engelschall</string>
+	<key>CurrentSheet</key>
+	<integer>0</integer>
+	<key>GraphDocumentVersion</key>
+	<integer>13</integer>
+	<key>GuidesLocked</key>
+	<string>NO</string>
+	<key>GuidesVisible</key>
+	<string>NO</string>
+	<key>ImageCounter</key>
+	<integer>3</integer>
+	<key>LinksVisible</key>
+	<string>NO</string>
+	<key>MagnetsVisible</key>
+	<string>NO</string>
+	<key>MasterSheets</key>
+	<array/>
+	<key>ModificationDate</key>
+	<string>2017-06-18 13:27:28 +0000</string>
+	<key>Modifier</key>
+	<string>Ralf S. Engelschall</string>
+	<key>MovementHandleVisible</key>
+	<string>NO</string>
+	<key>NotesVisible</key>
+	<string>NO</string>
+	<key>OriginVisible</key>
+	<string>NO</string>
+	<key>PageBreaks</key>
+	<string>YES</string>
+	<key>PrintInfo</key>
+	<dict>
+		<key>NSBottomMargin</key>
+		<array>
+			<string>float</string>
+			<string>41</string>
+		</array>
+		<key>NSHorizonalPagination</key>
+		<array>
+			<string>coded</string>
+			<string>BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU051bWJlcgCEhAdOU1ZhbHVlAISECE5TT2JqZWN0AIWEASqEhAFxlwCG</string>
+		</array>
+		<key>NSLeftMargin</key>
+		<array>
+			<string>float</string>
+			<string>18</string>
+		</array>
+		<key>NSOrientation</key>
+		<array>
+			<string>coded</string>
+			<string>BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU051bWJlcgCEhAdOU1ZhbHVlAISECE5TT2JqZWN0AIWEASqEhAFxlwGG</string>
+		</array>
+		<key>NSPaperSize</key>
+		<array>
+			<string>size</string>
+			<string>{841.8897705078125, 595.27557277679443}</string>
+		</array>
+		<key>NSPrintReverseOrientation</key>
+		<array>
+			<string>coded</string>
+			<string>BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU051bWJlcgCEhAdOU1ZhbHVlAISECE5TT2JqZWN0AIWEASqEhAFxlwCG</string>
+		</array>
+		<key>NSRightMargin</key>
+		<array>
+			<string>float</string>
+			<string>18</string>
+		</array>
+		<key>NSTopMargin</key>
+		<array>
+			<string>float</string>
+			<string>18</string>
+		</array>
+	</dict>
+	<key>ReadOnly</key>
+	<string>NO</string>
+	<key>Sheets</key>
+	<array>
+		<dict>
+			<key>ActiveLayerIndex</key>
+			<integer>0</integer>
+			<key>AutoAdjust</key>
+			<integer>6</integer>
+			<key>BackgroundGraphic</key>
+			<dict>
+				<key>Bounds</key>
+				<string>{{0, 0}, {1731.5, 1153}}</string>
+				<key>Class</key>
+				<string>ShapedGraphic</string>
+				<key>ID</key>
+				<integer>2</integer>
+				<key>Style</key>
+				<dict>
+					<key>shadow</key>
+					<dict>
+						<key>Draws</key>
+						<string>NO</string>
+					</dict>
+					<key>stroke</key>
+					<dict>
+						<key>Draws</key>
+						<string>NO</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>BaseZoom</key>
+			<integer>0</integer>
+			<key>CanvasOrigin</key>
+			<string>{0, 0}</string>
+			<key>ColumnAlign</key>
+			<integer>1</integer>
+			<key>ColumnSpacing</key>
+			<real>36</real>
+			<key>DisplayScale</key>
+			<string>1.0000 cm = 1.0000 cm</string>
+			<key>ExportShapes</key>
+			<array>
+				<dict>
+					<key>InspectorGroup</key>
+					<real>255</real>
+					<key>ShapeImageRect</key>
+					<string>{{2, 2}, {22, 22}}</string>
+					<key>ShapeName</key>
+					<string>D4962409-D552-4093-921F-3E5A49BCC4AD-33908-0008866177FF6DE9</string>
+					<key>ShouldExport</key>
+					<string>YES</string>
+					<key>StrokePath</key>
+					<dict>
+						<key>elements</key>
+						<array>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{-0.49999999999999983, 0.10982861668436628}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.49999999999999983, 0.21454830708391337}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.10240963855421681, 0.21454830708391337}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.10240963855421681, 0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.27108433734939741, 0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.27108433734939741, 0.35727415354195702}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.40361445783132566, 0.35727415354195702}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.40361445783132566, 0.21454830708391337}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, 0.21454830708391337}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, 0.10982861668436628}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, 0.084797537576601245}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, -0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.49999999999999994, -0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.49999999999999994, 0.10982861668436628}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>CLOSE</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{-0.49999999999999983, 0.10982861668436628}</string>
+							</dict>
+						</array>
+					</dict>
+					<key>TextBounds</key>
+					<string>{{0, 0}, {1, 1}}</string>
+					<key>combined</key>
+					<dict>
+						<key>Bounds</key>
+						<string>{{104.88188915252687, 119.05511741638183}, {235.27558917999266, 218.46850415875582}}</string>
+						<key>shapes</key>
+						<array>
+							<dict>
+								<key>ShapeName</key>
+								<string>Rectangle</string>
+								<key>graphic</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{104.88188915252687, 119.05511741638183}, {235.27558917999266, 133.2283456802368}}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>InspectorGroup</key>
+								<real>255</real>
+								<key>ShapeImageRect</key>
+								<string>{{2, 2}, {22, 22}}</string>
+								<key>ShapeName</key>
+								<string>C43BAAE7-2E45-4457-8CA6-9070BF41CCAB-33908-0008856075ABC537</string>
+								<key>ShouldExport</key>
+								<string>YES</string>
+								<key>StrokePath</key>
+								<dict>
+									<key>elements</key>
+									<array>
+										<dict>
+											<key>element</key>
+											<string>MOVETO</string>
+											<key>point</key>
+											<string>{-0.10240963855421681, -0.1875}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{-0.10240963855421681, 0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.27108433734939752, 0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.27108433734939752, 0.15625000000000022}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.40361445783132555, 0.15625000000000022}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.40361445783132555, -0.18750000000000022}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.50000000000000011, -0.18750000000000022}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.50000000000000011, -0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.2710843373493973, -0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.17453375144413175, -0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.17453375144413175, -0.49999999999999933}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{-0.090549412260915729, -0.49999999999999933}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{-0.090549412260915729, -0.49999999999999978}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{-0.49999999999999989, -0.49999999999999978}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{-0.49999999999999989, -0.1875}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>CLOSE</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>MOVETO</string>
+											<key>point</key>
+											<string>{-0.10240963855421681, -0.1875}</string>
+										</dict>
+									</array>
+								</dict>
+								<key>Text</key>
+								<dict>
+									<key>Text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 Apollo Client\
+\
+\
+\
+\
+\
+}</string>
+								</dict>
+								<key>TextBounds</key>
+								<string>{{0, 0}, {1, 1}}</string>
+								<key>combined</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{104.88188915252685, 119.05511741638176}, {235.27558917999266, 90.708660888671943}}</string>
+									<key>shapes</key>
+									<array>
+										<dict>
+											<key>ShapeName</key>
+											<string>Rectangle</string>
+											<key>graphic</key>
+											<dict>
+												<key>Bounds</key>
+												<string>{{198.42519569396973, 144.56692829132081}, {87.874015235900856, 65.196850013732899}}</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>InspectorGroup</key>
+											<real>255</real>
+											<key>ShapeImageRect</key>
+											<string>{{2, 2}, {22, 22}}</string>
+											<key>ShapeName</key>
+											<string>84935A81-C56C-4E3F-ABD0-6842C75F9D0A-33908-00088511412D69B6</string>
+											<key>ShouldExport</key>
+											<string>YES</string>
+											<key>StrokePath</key>
+											<dict>
+												<key>elements</key>
+												<array>
+													<dict>
+														<key>element</key>
+														<string>MOVETO</string>
+														<key>point</key>
+														<string>{0.24698795180722866, 0.49999999999999956}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{0.24698795180722866, 0.5}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{0.40361445783132543, 0.5}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{0.40361445783132543, -0.023809523809524169}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{0.5, -0.023809523809524169}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{0.5, -0.49999999999999978}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{0.27108433734939741, -0.49999999999999978}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{0.17453375144413186, -0.49999999999999978}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{0.17453375144413186, -0.49999999999999867}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{-0.090549412260915729, -0.49999999999999867}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{-0.090549412260915729, -0.49999999999999933}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{-0.49999999999999994, -0.49999999999999933}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{-0.49999999999999994, -0.023809523809523725}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{-0.10007151895252253, -0.023809523809523725}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{-0.10007151895252253, 0.49999999999999956}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{0.17453375144413186, 0.49999999999999956}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>LINETO</string>
+														<key>point</key>
+														<string>{0.18559168179567576, 0.49999999999999956}</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>CLOSE</string>
+													</dict>
+													<dict>
+														<key>element</key>
+														<string>MOVETO</string>
+														<key>point</key>
+														<string>{0.24698795180722866, 0.49999999999999956}</string>
+													</dict>
+												</array>
+											</dict>
+											<key>Text</key>
+											<dict>
+												<key>Text</key>
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 Apollo Client\
+\
+\
+}</string>
+											</dict>
+											<key>TextBounds</key>
+											<string>{{0, 0}, {1, 1}}</string>
+											<key>combined</key>
+											<dict>
+												<key>Bounds</key>
+												<string>{{104.88188915252687, 119.0551174163818}, {235.27558917999266, 59.527558708190995}}</string>
+												<key>shapes</key>
+												<array>
+													<dict>
+														<key>ShapeName</key>
+														<string>Rectangle</string>
+														<key>graphic</key>
+														<dict>
+															<key>Bounds</key>
+															<string>{{280.62991962432858, 141.7322826385498}, {36.850393486023002, 36.850393486022966}}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>InspectorGroup</key>
+														<real>255</real>
+														<key>ShapeImageRect</key>
+														<string>{{2, 2}, {22, 22}}</string>
+														<key>ShapeName</key>
+														<string>8489DC10-6BA6-40FB-A8A4-9AADF1356124-33908-0008850DEE4AA25C</string>
+														<key>ShouldExport</key>
+														<string>YES</string>
+														<key>StrokePath</key>
+														<dict>
+															<key>elements</key>
+															<array>
+																<dict>
+																	<key>element</key>
+																	<string>MOVETO</string>
+																	<key>point</key>
+																	<string>{0.27108433734939752, -0.023809523809524169}</string>
+																</dict>
+																<dict>
+																	<key>element</key>
+																	<string>LINETO</string>
+																	<key>point</key>
+																	<string>{0.50000000000000011, -0.023809523809524169}</string>
+																</dict>
+																<dict>
+																	<key>element</key>
+																	<string>LINETO</string>
+																	<key>point</key>
+																	<string>{0.50000000000000011, -0.50000000000000022}</string>
+																</dict>
+																<dict>
+																	<key>element</key>
+																	<string>LINETO</string>
+																	<key>point</key>
+																	<string>{0.27108433734939752, -0.50000000000000022}</string>
+																</dict>
+																<dict>
+																	<key>element</key>
+																	<string>LINETO</string>
+																	<key>point</key>
+																	<string>{0.17453375144413197, -0.50000000000000022}</string>
+																</dict>
+																<dict>
+																	<key>element</key>
+																	<string>LINETO</string>
+																	<key>point</key>
+																	<string>{0.17453375144413197, -0.49999999999999911}</string>
+																</dict>
+																<dict>
+																	<key>element</key>
+																	<string>LINETO</string>
+																	<key>point</key>
+																	<string>{-0.090549412260915618, -0.49999999999999911}</string>
+																</dict>
+																<dict>
+																	<key>element</key>
+																	<string>LINETO</string>
+																	<key>point</key>
+																	<string>{-0.090549412260915618, -0.49999999999999978}</string>
+																</dict>
+																<dict>
+																	<key>element</key>
+																	<string>LINETO</string>
+																	<key>point</key>
+																	<string>{-0.49999999999999989, -0.49999999999999978}</string>
+																</dict>
+																<dict>
+																	<key>element</key>
+																	<string>LINETO</string>
+																	<key>point</key>
+																	<string>{-0.49999999999999989, -0.023809523809523725}</string>
+																</dict>
+																<dict>
+																	<key>element</key>
+																	<string>LINETO</string>
+																	<key>point</key>
+																	<string>{-0.10007151895252242, -0.023809523809523725}</string>
+																</dict>
+																<dict>
+																	<key>element</key>
+																	<string>LINETO</string>
+																	<key>point</key>
+																	<string>{-0.10007151895252242, 0.5}</string>
+																</dict>
+																<dict>
+																	<key>element</key>
+																	<string>LINETO</string>
+																	<key>point</key>
+																	<string>{0.17453375144413197, 0.5}</string>
+																</dict>
+																<dict>
+																	<key>element</key>
+																	<string>LINETO</string>
+																	<key>point</key>
+																	<string>{0.18559168179567587, 0.5}</string>
+																</dict>
+																<dict>
+																	<key>element</key>
+																	<string>LINETO</string>
+																	<key>point</key>
+																	<string>{0.27108433734939752, 0.5}</string>
+																</dict>
+																<dict>
+																	<key>element</key>
+																	<string>CLOSE</string>
+																</dict>
+																<dict>
+																	<key>element</key>
+																	<string>MOVETO</string>
+																	<key>point</key>
+																	<string>{0.27108433734939752, -0.023809523809524169}</string>
+																</dict>
+															</array>
+														</dict>
+														<key>Text</key>
+														<dict>
+															<key>Text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 Apollo Client\
+\
+\
+}</string>
+														</dict>
+														<key>TextBounds</key>
+														<string>{{0, 0}, {1, 1}}</string>
+														<key>combined</key>
+														<dict>
+															<key>Bounds</key>
+															<string>{{104.88188915252685, 119.05511741638182}, {235.27558917999266, 59.527558708190952}}</string>
+															<key>shapes</key>
+															<array>
+																<dict>
+																	<key>ShapeName</key>
+																	<string>Rectangle</string>
+																	<key>graphic</key>
+																	<dict>
+																		<key>Bounds</key>
+																		<string>{{286.29921092987058, 119.05511741638182}, {53.858267402648949, 28.346456527709961}}</string>
+																	</dict>
+																</dict>
+																<dict>
+																	<key>InspectorGroup</key>
+																	<real>255</real>
+																	<key>ShapeImageRect</key>
+																	<string>{{2, 2}, {22, 22}}</string>
+																	<key>ShapeName</key>
+																	<string>4B56A324-1F4A-4783-956A-5514C42B3864-33908-000884D5C043D3F1</string>
+																	<key>ShouldExport</key>
+																	<string>YES</string>
+																	<key>StrokePath</key>
+																	<dict>
+																		<key>elements</key>
+																		<array>
+																			<dict>
+																				<key>element</key>
+																				<string>MOVETO</string>
+																				<key>point</key>
+																				<string>{0.49999999999999978, -0.5}</string>
+																			</dict>
+																			<dict>
+																				<key>element</key>
+																				<string>LINETO</string>
+																				<key>point</key>
+																				<string>{0.37478595890410871, -0.5}</string>
+																			</dict>
+																			<dict>
+																				<key>element</key>
+																				<string>LINETO</string>
+																				<key>point</key>
+																				<string>{0.37478595890410871, -0.49999999999999911}</string>
+																			</dict>
+																			<dict>
+																				<key>element</key>
+																				<string>LINETO</string>
+																				<key>point</key>
+																				<string>{0.031006230974124804, -0.49999999999999911}</string>
+																			</dict>
+																			<dict>
+																				<key>element</key>
+																				<string>LINETO</string>
+																				<key>point</key>
+																				<string>{0.031006230974124804, -0.49999999999999956}</string>
+																			</dict>
+																			<dict>
+																				<key>element</key>
+																				<string>LINETO</string>
+																				<key>point</key>
+																				<string>{-0.50000000000000022, -0.49999999999999956}</string>
+																			</dict>
+																			<dict>
+																				<key>element</key>
+																				<string>LINETO</string>
+																				<key>point</key>
+																				<string>{-0.50000000000000022, -0.023809523809523725}</string>
+																			</dict>
+																			<dict>
+																				<key>element</key>
+																				<string>LINETO</string>
+																				<key>point</key>
+																				<string>{0.018657248858447106, -0.023809523809523725}</string>
+																			</dict>
+																			<dict>
+																				<key>element</key>
+																				<string>LINETO</string>
+																				<key>point</key>
+																				<string>{0.018657248858447106, 0.5}</string>
+																			</dict>
+																			<dict>
+																				<key>element</key>
+																				<string>LINETO</string>
+																				<key>point</key>
+																				<string>{0.37478595890410871, 0.5}</string>
+																			</dict>
+																			<dict>
+																				<key>element</key>
+																				<string>LINETO</string>
+																				<key>point</key>
+																				<string>{0.38912671232876694, 0.5}</string>
+																			</dict>
+																			<dict>
+																				<key>element</key>
+																				<string>LINETO</string>
+																				<key>point</key>
+																				<string>{0.49999999999999978, 0.5}</string>
+																			</dict>
+																			<dict>
+																				<key>element</key>
+																				<string>CLOSE</string>
+																			</dict>
+																			<dict>
+																				<key>element</key>
+																				<string>MOVETO</string>
+																				<key>point</key>
+																				<string>{0.49999999999999978, -0.5}</string>
+																			</dict>
+																		</array>
+																	</dict>
+																	<key>Text</key>
+																	<dict>
+																		<key>Text</key>
+																		<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 Apollo Client\
+\
+\
+}</string>
+																	</dict>
+																	<key>TextBounds</key>
+																	<string>{{0, 0}, {1, 1}}</string>
+																	<key>combined</key>
+																	<dict>
+																		<key>Bounds</key>
+																		<string>{{104.88188915252688, 130.39370002746583}, {181.41732177734372, 59.527558708190952}}</string>
+																		<key>shapes</key>
+																		<array>
+																			<dict>
+																				<key>ShapeName</key>
+																				<string>Rectangle</string>
+																				<key>Text</key>
+																				<dict>
+																					<key>Text</key>
+																					<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 GraphQL.js}</string>
+																				</dict>
+																				<key>graphic</key>
+																				<dict>
+																					<key>Bounds</key>
+																					<string>{{286.29921092987058, 124.72440872192382}, {99.212597846984863, 76.535432624816892}}</string>
+																				</dict>
+																			</dict>
+																			<dict>
+																				<key>InspectorGroup</key>
+																				<real>255</real>
+																				<key>ShapeImageRect</key>
+																				<string>{{2, 2}, {22, 22}}</string>
+																				<key>ShapeName</key>
+																				<string>4B8FB55B-189E-4049-ADEC-37AD5E3B5EC8-33908-00088491AB0ADA8E</string>
+																				<key>ShouldExport</key>
+																				<string>YES</string>
+																				<key>StrokePath</key>
+																				<dict>
+																					<key>elements</key>
+																					<array>
+																						<dict>
+																							<key>element</key>
+																							<string>MOVETO</string>
+																							<key>point</key>
+																							<string>{0.33561643835616373, -0.49999999999999911}</string>
+																						</dict>
+																						<dict>
+																							<key>element</key>
+																							<string>LINETO</string>
+																							<key>point</key>
+																							<string>{0.007229832572298589, -0.49999999999999911}</string>
+																						</dict>
+																						<dict>
+																							<key>element</key>
+																							<string>LINETO</string>
+																							<key>point</key>
+																							<string>{0.007229832572298589, -0.49999999999999933}</string>
+																						</dict>
+																						<dict>
+																							<key>element</key>
+																							<string>LINETO</string>
+																							<key>point</key>
+																							<string>{-0.49999999999999989, -0.49999999999999933}</string>
+																						</dict>
+																						<dict>
+																							<key>element</key>
+																							<string>LINETO</string>
+																							<key>point</key>
+																							<string>{-0.49999999999999989, -0.023809523809523725}</string>
+																						</dict>
+																						<dict>
+																							<key>element</key>
+																							<string>LINETO</string>
+																							<key>point</key>
+																							<string>{-0.0045662100456622667, -0.023809523809523725}</string>
+																						</dict>
+																						<dict>
+																							<key>element</key>
+																							<string>LINETO</string>
+																							<key>point</key>
+																							<string>{-0.0045662100456622667, 0.5}</string>
+																						</dict>
+																						<dict>
+																							<key>element</key>
+																							<string>LINETO</string>
+																							<key>point</key>
+																							<string>{0.33561643835616373, 0.5}</string>
+																						</dict>
+																						<dict>
+																							<key>element</key>
+																							<string>LINETO</string>
+																							<key>point</key>
+																							<string>{0.34931506849315075, 0.5}</string>
+																						</dict>
+																						<dict>
+																							<key>element</key>
+																							<string>LINETO</string>
+																							<key>point</key>
+																							<string>{0.50000000000000022, 0.5}</string>
+																						</dict>
+																						<dict>
+																							<key>element</key>
+																							<string>LINETO</string>
+																							<key>point</key>
+																							<string>{0.50000000000000022, -0.5}</string>
+																						</dict>
+																						<dict>
+																							<key>element</key>
+																							<string>LINETO</string>
+																							<key>point</key>
+																							<string>{0.33561643835616373, -0.5}</string>
+																						</dict>
+																						<dict>
+																							<key>element</key>
+																							<string>CLOSE</string>
+																						</dict>
+																						<dict>
+																							<key>element</key>
+																							<string>MOVETO</string>
+																							<key>point</key>
+																							<string>{0.33561643835616373, -0.49999999999999911}</string>
+																						</dict>
+																					</array>
+																				</dict>
+																				<key>Text</key>
+																				<dict>
+																					<key>Text</key>
+																					<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 Apollo Client\
+\
+\
+}</string>
+																				</dict>
+																				<key>TextBounds</key>
+																				<string>{{0, 0}, {1, 1}}</string>
+																				<key>combined</key>
+																				<dict>
+																					<key>Bounds</key>
+																					<string>{{161.57480220794679, 110.55118045806881}, {206.9291326522827, 59.527558708190952}}</string>
+																					<key>shapes</key>
+																					<array>
+																						<dict>
+																							<key>ShapeName</key>
+																							<string>Rectangle</string>
+																							<key>graphic</key>
+																							<dict>
+																								<key>Bounds</key>
+																								<string>{{334.48818702697736, 110.55118045806881}, {34.015747833252078, 59.527558708190952}}</string>
+																							</dict>
+																						</dict>
+																						<dict>
+																							<key>InspectorGroup</key>
+																							<real>255</real>
+																							<key>ShapeImageRect</key>
+																							<string>{{2, 2}, {22, 22}}</string>
+																							<key>ShapeName</key>
+																							<string>768B99E3-106D-46E3-A580-9C713C21CFB4-33908-00088458119C952D</string>
+																							<key>ShouldExport</key>
+																							<string>YES</string>
+																							<key>StrokePath</key>
+																							<dict>
+																								<key>elements</key>
+																								<array>
+																									<dict>
+																										<key>element</key>
+																										<string>MOVETO</string>
+																										<key>point</key>
+																										<string>{0.083333333333333259, -0.023809523809524169}</string>
+																									</dict>
+																									<dict>
+																										<key>element</key>
+																										<string>LINETO</string>
+																										<key>point</key>
+																										<string>{0.083333333333333259, 0.5}</string>
+																									</dict>
+																									<dict>
+																										<key>element</key>
+																										<string>LINETO</string>
+																										<key>point</key>
+																										<string>{0.5, 0.5}</string>
+																									</dict>
+																									<dict>
+																										<key>element</key>
+																										<string>LINETO</string>
+																										<key>point</key>
+																										<string>{0.5, -0.49999999999999978}</string>
+																									</dict>
+																									<dict>
+																										<key>element</key>
+																										<string>LINETO</string>
+																										<key>point</key>
+																										<string>{0.097222222222222321, -0.49999999999999978}</string>
+																									</dict>
+																									<dict>
+																										<key>element</key>
+																										<string>LINETO</string>
+																										<key>point</key>
+																										<string>{0.097222222222222321, -0.5}</string>
+																									</dict>
+																									<dict>
+																										<key>element</key>
+																										<string>LINETO</string>
+																										<key>point</key>
+																										<string>{-0.50000000000000011, -0.5}</string>
+																									</dict>
+																									<dict>
+																										<key>element</key>
+																										<string>LINETO</string>
+																										<key>point</key>
+																										<string>{-0.50000000000000011, -0.023809523809524169}</string>
+																									</dict>
+																									<dict>
+																										<key>element</key>
+																										<string>CLOSE</string>
+																									</dict>
+																									<dict>
+																										<key>element</key>
+																										<string>MOVETO</string>
+																										<key>point</key>
+																										<string>{0.083333333333333259, -0.023809523809524169}</string>
+																									</dict>
+																								</array>
+																							</dict>
+																							<key>Text</key>
+																							<dict>
+																								<key>Text</key>
+																								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 apollo-client\
+\
+\
+}</string>
+																							</dict>
+																							<key>TextBounds</key>
+																							<string>{{0, 0}, {1, 1}}</string>
+																							<key>combined</key>
+																							<dict>
+																								<key>Bounds</key>
+																								<string>{{161.57480220794679, 110.55118045806884}, {204.09448699951167, 59.527558708190924}}</string>
+																								<key>shapes</key>
+																								<array>
+																									<dict>
+																										<key>ShapeName</key>
+																										<string>Rectangle</string>
+																										<key>Text</key>
+																										<dict>
+																											<key>Text</key>
+																											<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 apollo-client}</string>
+																										</dict>
+																										<key>graphic</key>
+																										<dict>
+																											<key>Bounds</key>
+																											<string>{{161.57480220794679, 110.55118045806884}, {121.88976306915282, 28.346456527709961}}</string>
+																										</dict>
+																									</dict>
+																									<dict>
+																										<key>ShapeName</key>
+																										<string>Rectangle</string>
+																										<key>Text</key>
+																										<dict>
+																											<key>Text</key>
+																											<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 apollo-client}</string>
+																										</dict>
+																										<key>graphic</key>
+																										<dict>
+																											<key>Bounds</key>
+																											<string>{{280.62991962432858, 110.55118045806886}, {85.039369583129897, 59.527558708190924}}</string>
+																										</dict>
+																									</dict>
+																								</array>
+																								<key>type</key>
+																								<integer>1</integer>
+																							</dict>
+																							<key>graphic</key>
+																							<dict>
+																								<key>Bounds</key>
+																								<string>{{161.57480220794679, 110.55118045806886}, {175.74803047180171, 59.527558708190924}}</string>
+																							</dict>
+																						</dict>
+																					</array>
+																					<key>type</key>
+																					<integer>1</integer>
+																				</dict>
+																				<key>graphic</key>
+																				<dict>
+																					<key>Bounds</key>
+																					<string>{{104.88188915252687, 130.39370002746583}, {189.92125873565669, 59.527558708190952}}</string>
+																				</dict>
+																			</dict>
+																		</array>
+																		<key>type</key>
+																		<integer>3</integer>
+																	</dict>
+																	<key>graphic</key>
+																	<dict>
+																		<key>Bounds</key>
+																		<string>{{104.8818891525269, 119.05511741638182}, {181.41732177734372, 59.527558708190952}}</string>
+																	</dict>
+																</dict>
+															</array>
+															<key>type</key>
+															<integer>1</integer>
+														</dict>
+														<key>graphic</key>
+														<dict>
+															<key>Bounds</key>
+															<string>{{104.88188915252685, 119.05511741638182}, {235.27558917999266, 59.527558708190952}}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>type</key>
+												<integer>1</integer>
+											</dict>
+											<key>graphic</key>
+											<dict>
+												<key>Bounds</key>
+												<string>{{104.88188915252685, 119.05511741638175}, {235.27558917999266, 59.527558708190995}}</string>
+											</dict>
+										</dict>
+									</array>
+									<key>type</key>
+									<integer>1</integer>
+								</dict>
+								<key>graphic</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{104.88188915252687, 246.81496068646572}, {235.27558917999266, 90.708660888671943}}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>type</key>
+						<integer>1</integer>
+					</dict>
+				</dict>
+				<dict>
+					<key>InspectorGroup</key>
+					<real>255</real>
+					<key>ShapeImageRect</key>
+					<string>{{2, 2}, {22, 22}}</string>
+					<key>ShapeName</key>
+					<string>CFBA3B71-1E42-41D9-89DD-299F0931C308-33908-0008863BDBBFCB34</string>
+					<key>ShouldExport</key>
+					<string>YES</string>
+					<key>StrokePath</key>
+					<dict>
+						<key>elements</key>
+						<array>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{-0.5, 0.023809523809524169}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, 0.071428571428572063}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, 0.50000000000000044}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, 0.50000000000000044}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, 0.023809523809524169}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.20000000000000018, 0.023809523809524169}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.20000000000000018, -0.49999999999999956}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, -0.49999999999999956}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>CLOSE</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{-0.5, 0.023809523809524169}</string>
+							</dict>
+						</array>
+					</dict>
+					<key>TextBounds</key>
+					<string>{{0, 0}, {1, 1}}</string>
+					<key>combined</key>
+					<dict>
+						<key>Bounds</key>
+						<string>{{396.85039138793945, 121.88976306915282}, {198.42519569396973, 59.527558708190924}}</string>
+						<key>shapes</key>
+						<array>
+							<dict>
+								<key>ShapeName</key>
+								<string>Rectangle</string>
+								<key>graphic</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{396.85039138793945, 121.88976306915282}, {138.89763698577883, 34.015747833251964}}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>ShapeName</key>
+								<string>Rectangle</string>
+								<key>Text</key>
+								<dict>
+									<key>Text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 GraphQL.js}</string>
+								</dict>
+								<key>graphic</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{396.85039138793945, 153.07086524963378}, {198.42519569396973, 28.346456527709961}}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>type</key>
+						<integer>1</integer>
+					</dict>
+				</dict>
+				<dict>
+					<key>InspectorGroup</key>
+					<real>255</real>
+					<key>ShapeImageRect</key>
+					<string>{{2, 2}, {22, 22}}</string>
+					<key>ShapeName</key>
+					<string>BF46FC3B-4682-4235-80C0-202AD155332D-33908-000885F88FC78E4C</string>
+					<key>ShouldExport</key>
+					<string>YES</string>
+					<key>StrokePath</key>
+					<dict>
+						<key>elements</key>
+						<array>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{0.21428571428571397, 0.15624999999999978}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.21428571428571441, 0.15624999999999978}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.21428571428571441, -0.18749999999999933}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, -0.18749999999999933}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, -0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, -0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, -0.18749999999999933}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.49999999999999933, -0.18749999999999933}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.49999999999999933, -0.15625000000000178}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, -0.15625000000000178}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, 0.50000000000000022}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.21428571428571397, 0.50000000000000022}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>CLOSE</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{0.21428571428571397, 0.15624999999999978}</string>
+							</dict>
+						</array>
+					</dict>
+					<key>TextBounds</key>
+					<string>{{0, 0}, {1, 1}}</string>
+					<key>combined</key>
+					<dict>
+						<key>Bounds</key>
+						<string>{{396.85039138793945, 127.55905437469492}, {198.42519569396984, 90.708660888671758}}</string>
+						<key>shapes</key>
+						<array>
+							<dict>
+								<key>ShapeName</key>
+								<string>Rectangle</string>
+								<key>graphic</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{396.85039138793945, 158.74015655517567}, {141.7322826385498, 59.527558708191009}}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>InspectorGroup</key>
+								<real>255</real>
+								<key>ShapeImageRect</key>
+								<string>{{2, 2}, {22, 22}}</string>
+								<key>ShapeName</key>
+								<string>938AF43B-B1D4-4DC1-8C4B-D010FAC4FED4-33908-000885BC6729BDA7</string>
+								<key>ShouldExport</key>
+								<string>YES</string>
+								<key>StrokePath</key>
+								<dict>
+									<key>elements</key>
+									<array>
+										<dict>
+											<key>element</key>
+											<string>MOVETO</string>
+											<key>point</key>
+											<string>{-0.49999999999999956, -0.023809523809522837}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{-0.49999999999999956, 0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.21428571428571441, 0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.21428571428571441, -0.023809523809522837}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.5, -0.023809523809522837}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.5, -0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{-0.5, -0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{-0.5, -0.023809523809522837}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>CLOSE</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>MOVETO</string>
+											<key>point</key>
+											<string>{-0.49999999999999956, -0.023809523809522837}</string>
+										</dict>
+									</array>
+								</dict>
+								<key>Text</key>
+								<dict>
+									<key>Text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 HAPI}</string>
+								</dict>
+								<key>TextBounds</key>
+								<string>{{0, 0}, {1, 1}}</string>
+								<key>combined</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{396.85039138793934, 158.74015655517579}, {198.42519569396984, 59.52755870819081}}</string>
+									<key>shapes</key>
+									<array>
+										<dict>
+											<key>ShapeName</key>
+											<string>Rectangle</string>
+											<key>graphic</key>
+											<dict>
+												<key>Bounds</key>
+												<string>{{396.85039138793934, 158.74015655517579}, {198.42519569396984, 28.346456527709961}}</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>ShapeName</key>
+											<string>Rectangle</string>
+											<key>Text</key>
+											<dict>
+												<key>Text</key>
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 HAPI}</string>
+											</dict>
+											<key>graphic</key>
+											<dict>
+												<key>Bounds</key>
+												<string>{{396.85039138793945, 181.41732177734372}, {141.7322826385498, 36.850393486022853}}</string>
+											</dict>
+										</dict>
+									</array>
+									<key>type</key>
+									<integer>1</integer>
+								</dict>
+								<key>graphic</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{396.85039138793945, 127.55905437469494}, {198.42519569396984, 59.52755870819081}}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>type</key>
+						<integer>1</integer>
+					</dict>
+				</dict>
+				<dict>
+					<key>InspectorGroup</key>
+					<real>255</real>
+					<key>ShapeImageRect</key>
+					<string>{{2, 2}, {22, 22}}</string>
+					<key>ShapeName</key>
+					<string>72397DE7-1C62-43EB-A31E-D0335C6830D1-33908-000885A00E216E2E</string>
+					<key>ShouldExport</key>
+					<string>YES</string>
+					<key>StrokePath</key>
+					<dict>
+						<key>elements</key>
+						<array>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{0.21428571428571486, 0.023809523809522837}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.21428571428571486, -0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, -0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, 0.023809523809522837}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, 0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, 0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, 0.023809523809522837}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>CLOSE</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{0.21428571428571486, 0.023809523809522837}</string>
+							</dict>
+						</array>
+					</dict>
+					<key>TextBounds</key>
+					<string>{{0, 0}, {1, 1}}</string>
+					<key>combined</key>
+					<dict>
+						<key>Bounds</key>
+						<string>{{396.85039138793945, 221.10236091613768}, {198.42519569396973, 59.527558708190838}}</string>
+						<key>shapes</key>
+						<array>
+							<dict>
+								<key>ShapeName</key>
+								<string>Rectangle</string>
+								<key>Text</key>
+								<dict>
+									<key>Pad</key>
+									<real>0.0</real>
+								</dict>
+								<key>graphic</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{396.85039138793945, 252.28346309661859}, {198.42519569396973, 28.346456527709961}}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>ShapeName</key>
+								<string>Rectangle</string>
+								<key>Text</key>
+								<dict>
+									<key>Pad</key>
+									<real>0.0</real>
+									<key>Text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs18 \cf1 \expnd0\expndtw0\kerning0
+HTTP\
+[Node]}</string>
+								</dict>
+								<key>graphic</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{396.85039138793945, 221.10236091613768}, {141.73228263854992, 31.181102180480877}}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>type</key>
+						<integer>1</integer>
+					</dict>
+				</dict>
+				<dict>
+					<key>InspectorGroup</key>
+					<real>255</real>
+					<key>ShapeImageRect</key>
+					<string>{{2, 2}, {22, 22}}</string>
+					<key>ShapeName</key>
+					<string>F9A0F689-225E-48E8-BB9F-78CB67EB8146-33908-000885A4F3680872</string>
+					<key>ShouldExport</key>
+					<string>YES</string>
+					<key>StrokePath</key>
+					<dict>
+						<key>elements</key>
+						<array>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{-0.20588235294117663, -0.023809523809522837}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.20588235294117663, 0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, 0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, -0.50000000000000044}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.20588235294117663, -0.50000000000000044}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.20588235294117663, -0.49999999999999867}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, -0.49999999999999867}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, -0.023809523809522837}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>CLOSE</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{-0.20588235294117663, -0.023809523809522837}</string>
+							</dict>
+						</array>
+					</dict>
+					<key>TextBounds</key>
+					<string>{{0, 0}, {1, 1}}</string>
+					<key>combined</key>
+					<dict>
+						<key>Bounds</key>
+						<string>{{541.41731967926023, 221.10236091613757}, {192.75590438842778, 59.527558708191009}}</string>
+						<key>shapes</key>
+						<array>
+							<dict>
+								<key>ShapeName</key>
+								<string>Rectangle</string>
+								<key>graphic</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{541.41731967926023, 221.10236091613768}, {136.06299133300786, 28.346456527709989}}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>ShapeName</key>
+								<string>Rectangle</string>
+								<key>Text</key>
+								<dict>
+									<key>Text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 ws}</string>
+								</dict>
+								<key>graphic</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{598.11023273468015, 221.10236091613757}, {136.06299133300786, 59.527558708191009}}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>type</key>
+						<integer>1</integer>
+					</dict>
+				</dict>
+				<dict>
+					<key>InspectorGroup</key>
+					<real>255</real>
+					<key>ShapeImageRect</key>
+					<string>{{2, 2}, {22, 22}}</string>
+					<key>ShapeName</key>
+					<string>A4DFDAD9-96E1-482F-9DE4-0F287C477DBD-33908-000886692AF133FA</string>
+					<key>ShouldExport</key>
+					<string>YES</string>
+					<key>StrokePath</key>
+					<dict>
+						<key>elements</key>
+						<array>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{-0.029411764705883137, 0.30216938251025582}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.029411764705883137, 0.34864728631881969}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, 0.34864728631881969}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, 0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.49999999999999822, 0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.49999999999999822, 0.34864728631881969}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.49999999999999645, 0.34864728631881969}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.49999999999999645, 0.30216938251025582}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, 0.30216938251025582}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, -0.49999999999999989}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.029411764705884025, -0.49999999999999989}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.029411764705884025, 0.30216938251025582}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>CLOSE</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{-0.029411764705883137, 0.30216938251025582}</string>
+							</dict>
+						</array>
+					</dict>
+					<key>TextBounds</key>
+					<string>{{0, 0}, {1, 1}}</string>
+					<key>combined</key>
+					<dict>
+						<key>Bounds</key>
+						<string>{{320.3149587631226, 119.05511741638185}, {48.188976097107002, 187.28740197827483}}</string>
+						<key>shapes</key>
+						<array>
+							<dict>
+								<key>ShapeName</key>
+								<string>Rectangle</string>
+								<key>graphic</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{342.9921239852905, 119.05511741638185}, {25.511810874939044, 150.23621959686278}}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>InspectorGroup</key>
+								<real>255</real>
+								<key>ShapeImageRect</key>
+								<string>{{2, 2}, {22, 22}}</string>
+								<key>ShapeName</key>
+								<string>AD3FEF0E-E907-446A-B958-34383A8AA265-33908-00088512E198C591</string>
+								<key>ShouldExport</key>
+								<string>YES</string>
+								<key>StrokePath</key>
+								<dict>
+									<key>elements</key>
+									<array>
+										<dict>
+											<key>element</key>
+											<string>MOVETO</string>
+											<key>point</key>
+											<string>{-0.029411764705882248, 0.023809523809523725}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{-0.5, 0.023809523809523725}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{-0.5, 0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.5, 0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.5, 0.023809523809523725}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.49999999999999911, 0.023809523809523725}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.49999999999999911, -0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{-0.029411764705882248, -0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>CLOSE</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>MOVETO</string>
+											<key>point</key>
+											<string>{-0.029411764705882248, 0.023809523809523725}</string>
+										</dict>
+									</array>
+								</dict>
+								<key>Text</key>
+								<dict>
+									<key>Text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs18 \cf1 \
+\
+\
+\
+GraphQL-\
+Tag}</string>
+								</dict>
+								<key>TextBounds</key>
+								<string>{{0, 0}, {1, 1}}</string>
+								<key>combined</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{320.31495876312255, 119.05511741638185}, {48.188976097106888, 59.527558708190895}}</string>
+									<key>shapes</key>
+									<array>
+										<dict>
+											<key>ShapeName</key>
+											<string>Rectangle</string>
+											<key>graphic</key>
+											<dict>
+												<key>Bounds</key>
+												<string>{{342.9921239852905, 119.05511741638185}, {25.511810874938931, 31.181102180480949}}</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>ShapeName</key>
+											<string>Rectangle</string>
+											<key>Text</key>
+											<dict>
+												<key>Text</key>
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs18 \cf1 GraphQL-\
+Tag}</string>
+											</dict>
+											<key>graphic</key>
+											<dict>
+												<key>Bounds</key>
+												<string>{{320.31495876312255, 150.23621959686278}, {48.188976097106888, 28.346456527709961}}</string>
+											</dict>
+										</dict>
+									</array>
+									<key>type</key>
+									<integer>1</integer>
+								</dict>
+								<key>graphic</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{320.3149587631226, 246.81496068646578}, {48.188976097106888, 59.527558708190895}}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>type</key>
+						<integer>1</integer>
+					</dict>
+				</dict>
+				<dict>
+					<key>InspectorGroup</key>
+					<real>255</real>
+					<key>ShapeImageRect</key>
+					<string>{{2, 2}, {22, 22}}</string>
+					<key>ShapeName</key>
+					<string>EC4F8F4C-7E47-4E89-9E55-6859A57A9224-33908-000885FC537049B6</string>
+					<key>ShouldExport</key>
+					<string>YES</string>
+					<key>StrokePath</key>
+					<dict>
+						<key>elements</key>
+						<array>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{-0.49999999999999911, 0.15625000000000022}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.49999999999999911, 0.49999999999999978}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.014705882352941568, 0.49999999999999978}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.014705882352941568, 0.15625000000000022}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, 0.15625000000000022}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, -0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.20588235294117752, -0.5}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.20588235294117752, -0.15624999999999889}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, -0.15624999999999889}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, 0.15625000000000022}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>CLOSE</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{-0.49999999999999911, 0.15625000000000022}</string>
+							</dict>
+						</array>
+					</dict>
+					<key>TextBounds</key>
+					<string>{{0, 0}, {1, 1}}</string>
+					<key>combined</key>
+					<dict>
+						<key>Bounds</key>
+						<string>{{541.41731967926023, 127.55905437469485}, {192.75590438842778, 90.70866088867183}}</string>
+						<key>shapes</key>
+						<array>
+							<dict>
+								<key>ShapeName</key>
+								<string>Rectangle</string>
+								<key>Text</key>
+								<dict>
+									<key>Pad</key>
+									<real>0.0</real>
+									<key>Text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+WebSocket-Framed}</string>
+								</dict>
+								<key>graphic</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{541.41731967926034, 181.41732177734374}, {99.21259784698475, 36.850393486022938}}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>InspectorGroup</key>
+								<real>255</real>
+								<key>ShapeImageRect</key>
+								<string>{{2, 2}, {22, 22}}</string>
+								<key>ShapeName</key>
+								<string>4B169EA0-067C-4926-9AA7-98DDEBF33DEC-33908-000885DBEDA3B7C7</string>
+								<key>ShouldExport</key>
+								<string>YES</string>
+								<key>StrokePath</key>
+								<dict>
+									<key>elements</key>
+									<array>
+										<dict>
+											<key>element</key>
+											<string>MOVETO</string>
+											<key>point</key>
+											<string>{-0.5, 0.023809523809525501}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{-0.5, 0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.5, 0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{0.5, -0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{-0.20588235294117752, -0.5}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>LINETO</string>
+											<key>point</key>
+											<string>{-0.20588235294117752, 0.023809523809525501}</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>CLOSE</string>
+										</dict>
+										<dict>
+											<key>element</key>
+											<string>MOVETO</string>
+											<key>point</key>
+											<string>{-0.5, 0.023809523809525501}</string>
+										</dict>
+									</array>
+								</dict>
+								<key>Text</key>
+								<dict>
+									<key>Pad</key>
+									<real>0.0</real>
+									<key>RTFD</key>
+									<data>
+								BAtzdHJlYW10
+								eXBlZIHoA4QB
+								QISEhBJOU0F0
+								dHJpYnV0ZWRT
+								dHJpbmcAhIQI
+								TlNPYmplY3QA
+								hZKEhIQITlNT
+								dHJpbmcBlIQB
+								KxZIQVBJLVBs
+								dWdpbi0KV2Vi
+								U29ja2V0hoQC
+								aUkBFpKEhIQM
+								TlNEaWN0aW9u
+								YXJ5AJSEAWkE
+								koSWlhBOU1Bh
+								cmFncmFwaFN0
+								eWxlhpKEhIQX
+								TlNNdXRhYmxl
+								UGFyYWdyYXBo
+								U3R5bGUAhIQQ
+								TlNQYXJhZ3Jh
+								cGhTdHlsZQCU
+								hARDQ0BTAgCE
+								hIQHTlNBcnJh
+								eQCUmQyShISE
+								CU5TVGV4dFRh
+								YgCUhAJDZgAc
+								hpKEoJ8AOIaS
+								hKCfAFSGkoSg
+								nwBwhpKEoJ8A
+								gYwAhpKEoJ8A
+								gagAhpKEoJ8A
+								gcQAhpKEoJ8A
+								geAAhpKEoJ8A
+								gfwAhpKEoJ8A
+								gRgBhpKEoJ8A
+								gTQBhpKEoJ8A
+								gVABhoYBhARb
+								MWZd/YaShJaW
+								B05TQ29sb3KG
+								koSEhAdOU0Nv
+								bG9yAJSEAWMD
+								hAJmZgEBhpKE
+								lpYGTlNGb250
+								hpKEhIQGTlNG
+								b250HpSZLIQF
+								WzQ0Y10GAAAA
+								JAAAAP/+TQB5
+								AHIAaQBhAGQA
+								UAByAG8ALQBS
+								AGUAZwB1AGwA
+								YQByAIQBZgqi
+								AKIBogCiAIaS
+								hJaWBk5TS2Vy
+								boaShISECE5T
+								TnVtYmVyAISE
+								B05TVmFsdWUA
+								lIQBKoSmpgCG
+								hoY=
+									</data>
+									<key>Text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\csgray\c100000;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf2 \expnd0\expndtw0\kerning0
+HAPI-Plugin-\
+WebSocket}</string>
+								</dict>
+								<key>TextBounds</key>
+								<string>{{0, 0}, {1, 1}}</string>
+								<key>combined</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{541.41731967926034, 158.7401565551757}, {192.75590438842778, 59.527558708190895}}</string>
+									<key>shapes</key>
+									<array>
+										<dict>
+											<key>ShapeName</key>
+											<string>Rectangle</string>
+											<key>Text</key>
+											<dict>
+												<key>Pad</key>
+												<real>0.0</real>
+											</dict>
+											<key>graphic</key>
+											<dict>
+												<key>Bounds</key>
+												<string>{{540.7795240402221, 153.07086524963375}, {57.330708694458053, 36.850393486022966}}</string>
+											</dict>
+										</dict>
+										<dict>
+											<key>ShapeName</key>
+											<string>Rectangle</string>
+											<key>Text</key>
+											<dict>
+												<key>Pad</key>
+												<real>0.0</real>
+												<key>RTFD</key>
+												<data>
+								BAtzdHJlYW10
+								eXBlZIHoA4QB
+								QISEhBJOU0F0
+								dHJpYnV0ZWRT
+								dHJpbmcAhIQI
+								TlNPYmplY3QA
+								hZKEhIQITlNT
+								dHJpbmcBlIQB
+								KxZIQVBJLVBs
+								dWdpbi0KV2Vi
+								U29ja2V0hoQC
+								aUkBFpKEhIQM
+								TlNEaWN0aW9u
+								YXJ5AJSEAWkE
+								koSWlhBOU1Bh
+								cmFncmFwaFN0
+								eWxlhpKEhIQX
+								TlNNdXRhYmxl
+								UGFyYWdyYXBo
+								U3R5bGUAhIQQ
+								TlNQYXJhZ3Jh
+								cGhTdHlsZQCU
+								hARDQ0BTAgCE
+								hIQHTlNBcnJh
+								eQCUmQyShISE
+								CU5TVGV4dFRh
+								YgCUhAJDZgAc
+								hpKEoJ8AOIaS
+								hKCfAFSGkoSg
+								nwBwhpKEoJ8A
+								gYwAhpKEoJ8A
+								gagAhpKEoJ8A
+								gcQAhpKEoJ8A
+								geAAhpKEoJ8A
+								gfwAhpKEoJ8A
+								gRgBhpKEoJ8A
+								gTQBhpKEoJ8A
+								gVABhoYBhARb
+								MWZd/YaShJaW
+								B05TQ29sb3KG
+								koSEhAdOU0Nv
+								bG9yAJSEAWMD
+								hAJmZgEBhpKE
+								lpYGTlNGb250
+								hpKEhIQGTlNG
+								b250HpSZLIQF
+								WzQ0Y10GAAAA
+								JAAAAP/+TQB5
+								AHIAaQBhAGQA
+								UAByAG8ALQBS
+								AGUAZwB1AGwA
+								YQByAIQBZgqi
+								AKIBogCiAIaS
+								hJaWBk5TS2Vy
+								boaShISECE5T
+								TnVtYmVyAISE
+								B05TVmFsdWUA
+								lIQBKoSmpgCG
+								hoY=
+												</data>
+												<key>Text</key>
+												<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\csgray\c100000;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf2 \expnd0\expndtw0\kerning0
+HAPI-Plugin-\
+WebSocket}</string>
+											</dict>
+											<key>graphic</key>
+											<dict>
+												<key>Bounds</key>
+												<string>{{541.41731967926034, 158.74015655517573}, {192.75590438842778, 59.527558708190867}}</string>
+											</dict>
+										</dict>
+									</array>
+									<key>type</key>
+									<integer>3</integer>
+								</dict>
+								<key>graphic</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{541.41731967926023, 127.55905437469485}, {192.75590438842778, 59.527558708190895}}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>type</key>
+						<integer>1</integer>
+					</dict>
+				</dict>
+				<dict>
+					<key>InspectorGroup</key>
+					<real>255</real>
+					<key>ShapeImageRect</key>
+					<string>{{2, 2}, {22, 22}}</string>
+					<key>ShapeName</key>
+					<string>7AA6F270-ECDB-406B-80A6-D0CCC959B15C-33908-000886356566830F</string>
+					<key>ShouldExport</key>
+					<string>YES</string>
+					<key>StrokePath</key>
+					<dict>
+						<key>elements</key>
+						<array>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{-0.16666666666666696, 0.023809523809524169}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, 0.023809523809524169}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.5, 0.50000000000000044}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, 0.50000000000000044}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, 0.071428571428572063}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, 0.023809523809524169}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{0.5, -0.49999999999999956}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>LINETO</string>
+								<key>point</key>
+								<string>{-0.16666666666666696, -0.49999999999999956}</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>CLOSE</string>
+							</dict>
+							<dict>
+								<key>element</key>
+								<string>MOVETO</string>
+								<key>point</key>
+								<string>{-0.16666666666666696, 0.023809523809524169}</string>
+							</dict>
+						</array>
+					</dict>
+					<key>TextBounds</key>
+					<string>{{0, 0}, {1, 1}}</string>
+					<key>combined</key>
+					<dict>
+						<key>Bounds</key>
+						<string>{{598.11023273468004, 121.88976306915282}, {136.06299133300809, 59.527558708190924}}</string>
+						<key>shapes</key>
+						<array>
+							<dict>
+								<key>ShapeName</key>
+								<string>Rectangle</string>
+								<key>Text</key>
+								<dict>
+									<key>Pad</key>
+									<real>0.0</real>
+								</dict>
+								<key>graphic</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{643.46456317901607, 121.88976306915282}, {90.708660888671943, 34.015747833251964}}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>ShapeName</key>
+								<string>Rectangle</string>
+								<key>Text</key>
+								<dict>
+									<key>Pad</key>
+									<real>0.0</real>
+									<key>Text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+GraphQL-Tools-Subscribe}</string>
+								</dict>
+								<key>graphic</key>
+								<dict>
+									<key>Bounds</key>
+									<string>{{598.11023273468004, 153.07086524963378}, {136.06299133300797, 28.346456527709961}}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>type</key>
+						<integer>1</integer>
+					</dict>
+				</dict>
+			</array>
+			<key>GraphicsList</key>
+			<array>
+				<dict>
+					<key>AllowLabelDrop</key>
+					<false/>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>Helvetica</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>3</integer>
+					<key>Points</key>
+					<array>
+						<string>{153.07086524963378, 425.69684791564941}</string>
+						<string>{569.76377620697042, 425.69684791564941}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>AllowConnections</key>
+					<string>NO</string>
+					<key>AllowLabelDrop</key>
+					<false/>
+					<key>AllowToConnect</key>
+					<false/>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>Helvetica</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>4</integer>
+					<key>Points</key>
+					<array>
+						<string>{569.76377620697042, 368.50393486022949}</string>
+						<string>{569.76377620697042, 425.19684791564941}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>TailArrow</key>
+							<string>FilledArrow</string>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{538.58267402648926, 121.88976306915282}, {102.04724349975584, 28.346456527709961}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<string>0</string>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>5</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.21767800000000001</real>
+								<key>g</key>
+								<real>0.56035800000000002</real>
+								<key>r</key>
+								<real>0.87431499999999995</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.0772374</string>
+								<key>g</key>
+								<string>0.409908</string>
+								<key>r</key>
+								<string>0.699177</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+GraphQL-Tools-\
+Types}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{598.11023273468004, 121.88976306915281}, {138.89763698577895, 59.527558708190924}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<real>0.0</real>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>6</integer>
+					<key>Shape</key>
+					<string>7AA6F270-ECDB-406B-80A6-D0CCC959B15C-33908-000886356566830F</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.21767800000000001</real>
+								<key>g</key>
+								<real>0.56035800000000002</real>
+								<key>r</key>
+								<real>0.87431499999999995</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.0772374</string>
+								<key>g</key>
+								<string>0.409908</string>
+								<key>r</key>
+								<string>0.699177</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+                   GraphQL-Tools-\
+                Subscribe}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{396.85039138793945, 121.88976306915282}, {198.42519569396973, 59.527558708190924}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>7</integer>
+					<key>Shape</key>
+					<string>CFBA3B71-1E42-41D9-89DD-299F0931C308-33908-0008863BDBBFCB34</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 GraphQL.js}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{645.13385448455801, 246.61417179107661}, {91.87401523590097, 28.346456527709961}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<string>0</string>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>8</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.21767800000000001</real>
+								<key>g</key>
+								<real>0.56035800000000002</real>
+								<key>r</key>
+								<real>0.87431499999999995</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.0772374</string>
+								<key>g</key>
+								<string>0.409908</string>
+								<key>r</key>
+								<string>0.699177</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+WebSocket-Framed}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{541.41731967926034, 184.25196743011475}, {195.59055004119864, 90.70866088867183}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>space</key>
+							<string>gg22</string>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<real>0.0</real>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>9</integer>
+					<key>Shape</key>
+					<string>EC4F8F4C-7E47-4E89-9E55-6859A57A9224-33908-000885FC537049B6</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.21767800000000001</real>
+								<key>g</key>
+								<real>0.56035800000000002</real>
+								<key>r</key>
+								<real>0.87431499999999995</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.0772374</string>
+								<key>g</key>
+								<string>0.409908</string>
+								<key>r</key>
+								<string>0.699177</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+                     HAPI-Plugin-\
+                     WebSocket\
+\
+}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{396.85039138793945, 184.2519674301148}, {198.42519569396984, 90.708660888671758}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>10</integer>
+					<key>Shape</key>
+					<string>BF46FC3B-4682-4235-80C0-202AD155332D-33908-000885F88FC78E4C</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 HAPI}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{541.41731967926034, 277.79527397155732}, {195.59055004119864, 59.527558708191009}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>11</integer>
+					<key>Shape</key>
+					<string>F9A0F689-225E-48E8-BB9F-78CB67EB8146-33908-000885A4F3680872</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 ws}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{396.85039138793945, 277.79527397155744}, {198.42519569396973, 59.527558708190838}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<real>0.0</real>
+						<key>Size</key>
+						<real>9</real>
+					</dict>
+					<key>ID</key>
+					<integer>12</integer>
+					<key>Shape</key>
+					<string>72397DE7-1C62-43EB-A31E-D0335C6830D1-33908-000885A00E216E2E</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs18 \cf1 \expnd0\expndtw0\kerning0
+HTTP\
+[Node]}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{396.85039138793945, 340.15747833251942}, {340.15747833251953, 28.346456527709961}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<string>0</string>
+						<key>Size</key>
+						<real>9</real>
+					</dict>
+					<key>ID</key>
+					<integer>13</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs18 \cf1 \expnd0\expndtw0\kerning0
+Net\
+[Node]}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{104.88188915252684, 309.17716504742759}, {90.708660888671886, 28.346456527709961}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<string>0</string>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>14</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.21767800000000001</real>
+								<key>g</key>
+								<real>0.56035800000000002</real>
+								<key>r</key>
+								<real>0.87431499999999995</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.0772374</string>
+								<key>g</key>
+								<string>0.409908</string>
+								<key>r</key>
+								<string>0.699177</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+WebSocket-Framed}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>AllowLabelDrop</key>
+					<false/>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>Helvetica</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>16</integer>
+						<key>Position</key>
+						<real>0.4865131676197052</real>
+					</dict>
+					<key>ID</key>
+					<integer>15</integer>
+					<key>Points</key>
+					<array>
+						<string>{153.07086524963378, 425.19684791564941}</string>
+						<string>{152.99999860513373, 397.05118028332822}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>AllowLabelDrop</key>
+					<false/>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>Helvetica</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>Head</key>
+					<dict>
+						<key>ID</key>
+						<integer>17</integer>
+						<key>Info</key>
+						<integer>1</integer>
+					</dict>
+					<key>ID</key>
+					<integer>16</integer>
+					<key>Points</key>
+					<array>
+						<string>{48.188976097106945, 397.05118028332822}</string>
+						<string>{263.62204570770263, 397.05118028332822}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>TailArrow</key>
+							<string>0</string>
+						</dict>
+					</dict>
+					<key>Tail</key>
+					<dict>
+						<key>ID</key>
+						<integer>22</integer>
+						<key>Info</key>
+						<integer>1</integer>
+					</dict>
+				</dict>
+				<dict>
+					<key>AllowLabelDrop</key>
+					<false/>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>Helvetica</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>17</integer>
+					<key>Points</key>
+					<array>
+						<string>{263.62204570770263, 368.70472375561849}</string>
+						<string>{263.62204570770263, 397.05118028332822}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>TailArrow</key>
+							<string>FilledArrow</string>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>AllowLabelDrop</key>
+					<false/>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>Helvetica</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>18</integer>
+					<key>Points</key>
+					<array>
+						<string>{218.26771526336668, 368.70472375561849}</string>
+						<string>{218.26771526336668, 397.05118028332822}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>TailArrow</key>
+							<string>FilledArrow</string>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>AllowLabelDrop</key>
+					<false/>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>Helvetica</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>19</integer>
+					<key>Points</key>
+					<array>
+						<string>{175.74803047180174, 368.70472375561849}</string>
+						<string>{175.74803047180174, 397.05118028332822}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>TailArrow</key>
+							<string>FilledArrow</string>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>AllowLabelDrop</key>
+					<false/>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>Helvetica</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>20</integer>
+					<key>Points</key>
+					<array>
+						<string>{130.39370002746583, 368.70472375561849}</string>
+						<string>{130.39370002746583, 397.05118028332822}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>TailArrow</key>
+							<string>FilledArrow</string>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>AllowLabelDrop</key>
+					<false/>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>Helvetica</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>21</integer>
+					<key>Points</key>
+					<array>
+						<string>{87.874015235900885, 368.70472375561849}</string>
+						<string>{87.874015235900885, 397.05118028332822}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>TailArrow</key>
+							<string>FilledArrow</string>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>AllowLabelDrop</key>
+					<false/>
+					<key>Class</key>
+					<string>LineGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>Helvetica</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>22</integer>
+					<key>Points</key>
+					<array>
+						<string>{48.188976097106945, 368.70472375561849}</string>
+						<string>{48.188976097106945, 397.05118028332822}</string>
+					</array>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.57135254144668579</real>
+								<key>g</key>
+								<real>0.57146155834197998</real>
+								<key>r</key>
+								<real>0.57137870788574219</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>HeadArrow</key>
+							<string>0</string>
+							<key>Legacy</key>
+							<true/>
+							<key>TailArrow</key>
+							<string>FilledArrow</string>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{320.3149587631226, 119.05511741638185}, {48.188976097107002, 187.28740197827483}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>Size</key>
+						<real>9</real>
+					</dict>
+					<key>ID</key>
+					<integer>23</integer>
+					<key>Shape</key>
+					<string>A4DFDAD9-96E1-482F-9DE4-0F287C477DBD-33908-000886692AF133FA</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs18 \cf1 \
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+GraphQL-\
+Tag}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{289.13385658264156, 309.17716504742759}, {79.370078277587936, 59.527558708191009}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>24</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 GraphQL.js}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{240.94488048553458, 340.35826722790853}, {45.354330444335929, 28.346456527709961}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<string>0</string>
+						<key>Size</key>
+						<real>9</real>
+					</dict>
+					<key>ID</key>
+					<integer>25</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs18 \cf1 whatwg\
+-fetch}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{198.42519569396964, 340.35826722790853}, {39.685039138794025, 28.346456527709961}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<string>0</string>
+						<key>Size</key>
+						<real>9</real>
+					</dict>
+					<key>ID</key>
+					<integer>26</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs18 \cf1 \expnd0\expndtw0\kerning0
+Fetch\
+[Browser]}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{104.88188915252687, 119.05511741638183}, {235.27558917999266, 218.46850415875582}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>27</integer>
+					<key>Shape</key>
+					<string>D4962409-D552-4093-921F-3E5A49BCC4AD-33908-0008866177FF6DE9</string>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 Apollo Client\
+\
+\
+\
+\
+\
+}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{104.88188915252687, 277.99606286694655}, {90.708660888671886, 28.346456527709961}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<string>0</string>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>28</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.21767800000000001</real>
+								<key>g</key>
+								<real>0.56035800000000002</real>
+								<key>r</key>
+								<real>0.87431499999999995</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.0772374</string>
+								<key>g</key>
+								<string>0.409908</string>
+								<key>r</key>
+								<string>0.699177</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+Apollo Client WS}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{155.9055109024047, 340.35826722790853}, {39.685039138794025, 28.346456527709961}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<string>0</string>
+						<key>Size</key>
+						<real>9</real>
+					</dict>
+					<key>ID</key>
+					<integer>29</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs18 \cf1 ws}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{104.88188915252687, 340.35826722790853}, {48.188976097106917, 28.346456527709961}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<string>0</string>
+						<key>Size</key>
+						<real>9</real>
+					</dict>
+					<key>ID</key>
+					<integer>30</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs18 \cf1 \expnd0\expndtw0\kerning0
+WebSocket\
+[Browser]}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{70.866141319274902, 340.35826722790853}, {31.181102180480977, 28.346456527709961}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<string>0</string>
+						<key>Size</key>
+						<real>9</real>
+					</dict>
+					<key>ID</key>
+					<integer>31</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs18 \cf1 \expnd0\expndtw0\kerning0
+HTTP\
+[Node]}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{28.346456527709979, 340.35826722790853}, {39.68503913879394, 28.346456527709961}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<string>0</string>
+						<key>Size</key>
+						<real>9</real>
+					</dict>
+					<key>ID</key>
+					<integer>32</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs18 \cf1 \expnd0\expndtw0\kerning0
+XHR\
+[Browser]}</string>
+					</dict>
+					<key>TextRelativeArea</key>
+					<string>{{0, 0}, {1, 1}}</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{28.346456527709968, 119.05511741638185}, {73.70078697204589, 218.46850415875593}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>33</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 Axios}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{396.85039138793962, 56.692913055419943}, {340.15747833251964, 28.346456527709961}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<real>0.0</real>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>34</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+Application\
+(Server-Side)}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{28.346456527709961, 56.692913055419915}, {340.15747833251953, 28.346456527709975}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<real>0.0</real>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>35</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+Application\
+(Client-Side)}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{396.85039138793945, 87.87401523590087}, {340.15747833251976, 30.330708694457996}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<real>0.0</real>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>36</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.100938</real>
+								<key>g</key>
+								<real>0.124349</real>
+								<key>r</key>
+								<real>0.70111699999999999</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.100938</string>
+								<key>g</key>
+								<string>0.124349</string>
+								<key>r</key>
+								<string>0.701117</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+GraphQL-IO-Server}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{28.346456527709961, 87.87401523590087}, {340.15747833251953, 28.346456527709961}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<real>0.0</real>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>37</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.10093776136636734</real>
+								<key>g</key>
+								<real>0.12434855848550797</real>
+								<key>r</key>
+								<real>0.70111733675003052</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.100938</string>
+								<key>g</key>
+								<string>0.124349</string>
+								<key>r</key>
+								<string>0.701117</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+GraphQL-IO-Client}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{399.68503704071043, 382.67716312408447}, {32, 15}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FitText</key>
+					<string>YES</string>
+					<key>Flow</key>
+					<string>Resize</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>38</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+Server}</string>
+						<key>VerticalPad</key>
+						<real>0.0</real>
+					</dict>
+					<key>Wrap</key>
+					<string>NO</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{338.50393486022949, 382.67716312408447}, {30, 15}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FitText</key>
+					<string>YES</string>
+					<key>Flow</key>
+					<string>Resize</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>Size</key>
+						<real>12</real>
+					</dict>
+					<key>ID</key>
+					<integer>39</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+Client}</string>
+						<key>VerticalPad</key>
+						<real>0.0</real>
+					</dict>
+					<key>Wrap</key>
+					<string>NO</string>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{22.677165222167957, 49.322832854488865}, {351.49606094360354, 327.6850389640536}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>40</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Pattern</key>
+							<integer>24</integer>
+							<key>Width</key>
+							<real>0.5</real>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{391.18110008239745, 49.322832854488865}, {351.49606094360354, 327.6850389640536}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>41</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Pattern</key>
+							<integer>24</integer>
+							<key>Width</key>
+							<real>0.5</real>
+						</dict>
+					</dict>
+				</dict>
+			</array>
+			<key>GridInfo</key>
+			<dict>
+				<key>GridSpacing</key>
+				<real>2.834645652770996</real>
+				<key>MajorGridSpacing</key>
+				<integer>10</integer>
+				<key>ShowsGrid</key>
+				<string>YES</string>
+				<key>SnapsToGrid</key>
+				<string>YES</string>
+			</dict>
+			<key>HPages</key>
+			<integer>1</integer>
+			<key>HorizontalGuides</key>
+			<array>
+				<real>nan</real>
+			</array>
+			<key>KeepToScale</key>
+			<false/>
+			<key>Layers</key>
+			<array>
+				<dict>
+					<key>Artboards</key>
+					<false/>
+					<key>Lock</key>
+					<false/>
+					<key>Name</key>
+					<string>Content</string>
+					<key>Print</key>
+					<true/>
+					<key>View</key>
+					<true/>
+				</dict>
+			</array>
+			<key>LayoutInfo</key>
+			<dict>
+				<key>Animate</key>
+				<string>NO</string>
+				<key>circoMinDist</key>
+				<real>18</real>
+				<key>circoSeparation</key>
+				<real>0.0</real>
+				<key>layoutEngine</key>
+				<string>dot</string>
+				<key>neatoLineLength</key>
+				<real>0.20000000298023224</real>
+				<key>neatoSeparation</key>
+				<real>0.0</real>
+				<key>twopiSeparation</key>
+				<real>0.0</real>
+			</dict>
+			<key>Orientation</key>
+			<integer>2</integer>
+			<key>PrintOnePage</key>
+			<false/>
+			<key>RowAlign</key>
+			<integer>1</integer>
+			<key>RowSpacing</key>
+			<real>36</real>
+			<key>SheetTitle</key>
+			<string>Canvas 1</string>
+			<key>UniqueID</key>
+			<integer>1</integer>
+			<key>VPages</key>
+			<integer>1</integer>
+			<key>VisibleVoidKey</key>
+			<real>1</real>
+		</dict>
+	</array>
+	<key>SmartAlignmentGuidesActive</key>
+	<string>YES</string>
+	<key>SmartDistanceGuidesActive</key>
+	<string>YES</string>
+	<key>UseEntirePage</key>
+	<false/>
+	<key>WindowInfo</key>
+	<dict>
+		<key>Frame</key>
+		<string>{{8, 25}, {2400, 1392}}</string>
+		<key>ShowInfo</key>
+		<true/>
+		<key>ShowRuler</key>
+		<true/>
+		<key>Sidebar</key>
+		<true/>
+		<key>SidebarWidth</key>
+		<integer>230</integer>
+		<key>Sidebar_Tab</key>
+		<integer>0</integer>
+		<key>VisibleRegion</key>
+		<string>{{-71.25, -51.5}, {926, 617}}</string>
+		<key>ZoomValues</key>
+		<array>
+			<array>
+				<string>Canvas 1</string>
+				<real>2</real>
+				<real>2</real>
+			</array>
+		</array>
+	</dict>
+	<key>compressOnDiskKey</key>
+	<false/>
+	<key>copyLinkedImagesKey</key>
+	<false/>
+	<key>createSinglePDFKey</key>
+	<false/>
+	<key>exportAreaKey</key>
+	<integer>4</integer>
+	<key>exportQualityKey</key>
+	<real>100</real>
+	<key>exportSizesKey</key>
+	<array>
+		<real>1</real>
+		<string></string>
+	</array>
+	<key>fileFormatKey</key>
+	<integer>0</integer>
+	<key>htmlImageTypeKey</key>
+	<integer>0</integer>
+	<key>includeBackgroundGraphicKey</key>
+	<true/>
+	<key>includeNonPrintingLayersKey</key>
+	<false/>
+	<key>lastExportTypeKey</key>
+	<integer>8</integer>
+	<key>marginWidthKey</key>
+	<real>28.346456527709961</real>
+	<key>previewTypeKey</key>
+	<integer>0</integer>
+	<key>readOnlyKey</key>
+	<false/>
+	<key>resolutionForBMPKey</key>
+	<real>1</real>
+	<key>resolutionForGIFKey</key>
+	<real>1</real>
+	<key>resolutionForHTMLKey</key>
+	<real>1</real>
+	<key>resolutionForJPGKey</key>
+	<real>1</real>
+	<key>resolutionForPNGKey</key>
+	<real>4.1666665077209473</real>
+	<key>resolutionForTIFFKey</key>
+	<real>1</real>
+	<key>resolutionUnitsKey</key>
+	<integer>0</integer>
+	<key>saveAsFlatFileOptionKey</key>
+	<integer>0</integer>
+	<key>useArtboardsKey</key>
+	<false/>
+	<key>useMarginKey</key>
+	<true/>
+	<key>useNotesKey</key>
+	<false/>
+</dict>
+</plist>
