@@ -1,0 +1,31 @@
+{
+    "name":        "graphql-io-website",
+    "version":     "0.0.0",
+    "repository": {
+        "type": "git",
+        "url":  "https://github.com/rse/graphql-io-website.git"
+    },
+    "author": {
+        "name":  "Ralf S. Engelschall",
+        "email": "rse@engelschall.com",
+        "url":   "http://engelschall.com"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url":  "http://opensource.org/licenses/MIT"
+    }],
+    "homepage": "https://github.com/rse/graphql-io-website",
+    "bugs":     "https://github.com/rse/graphql-io-website/issues",
+    "devDependencies": {
+        "bower":                      "~1.8.0",
+        "grunt":                      "~1.0.1",
+        "grunt-cli":                  "~1.2.0",
+        "grunt-contrib-clean":        "~1.1.0",
+        "grunt-contrib-copy":         "~1.0.0",
+        "grunt-bower-install-simple": "~1.2.4"
+    },
+    "scripts": {
+        "prepublish":                 "bower install",
+        "build":                      "grunt"
+    }
+}
