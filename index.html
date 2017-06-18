@@ -60,16 +60,22 @@
                                         for both client and server.
                                     </p>
                                     <p>
-                                        It was originally developed for use in the <a href="http://gemstonejs.com/">Gemstone</a>
+                                        It integrates the necessary third-party libraries,
+                                        provides a convenient and flexible API and especially supports real-time
+                                        updates of GraphQL queries (aka GraphQL subscriptions) over WebSocket channels.
+                                    </p>
+                                    <p>
+                                        <b>GraphQL-IO</b> was originally developed for use in the <a href="http://gemstonejs.com/">Gemstone</a>
                                         technology stack, but can be used fully stand-alone and independent of it.
                                     </p>
                                 </div>
                                 <div class="g-off-1-12 g-col-6-12">
                                     <div class="headline">Technologies</div>
                                     <p>
-                                        On the client-side, <b>GraphQL-IO</b> it is based on the GraphQL engine <a href="http://graphql.org/graphql-js/">GraphQL.js</a>, the
-                                        GraphQL client library <a href="https://github.com/apollographql/apollo-client">Apollo Client</a>, its
-                                        WebSocket network interface <a href="https://github.com/rse/apollo-client-ws">Apollo Client WS</a><sup>*</sup>,
+                                        On the client-side, <b>GraphQL-IO</b> it is based on the GraphQL engine <a href="http://graphql.org/graphql-js/">GraphQL.js</a>,
+                                        the GraphQL parser library <a href="https://github.com/apollographql/graphql-tag">GraphQL-Tag</a>,
+                                        the GraphQL client library <a href="https://github.com/apollographql/apollo-client">Apollo Client</a>,
+                                        its WebSocket network interface <a href="https://github.com/rse/apollo-client-ws">Apollo Client WS</a><sup>*</sup>,
                                         the underlying WebSocket frame library <a href="https://github.com/rse/websocket-framed">WebSocket-Framed</a><sup>*</sup>,
                                         and the HTTP client library <a href="https://github.com/mzabriskie/axios">Axios</a>.
                                     </p>
@@ -83,6 +89,10 @@
                                         the underlying WebSocket frame library <a href="https://github.com/rse/websocket-framed">WebSocket-Framed</a><sup>*</sup>
                                         and the <a href="https://github.com/graphql/graphiql">GraphiQL</a> integration plugin
                                         <a href="https://github.com/rse/hapi-plugin-graphiql">HAPI-Plugin-GraphiQL</a><sup>*</sup>.
+                                    </p>
+                                    <p>
+                                        For details on how these libraries are itegrated and play together, please see
+                                        the <a href="#architecture-design">Architecture &amp; Design<a> page.
                                     </p>
                                     <p>
                                         <div class="footnote"><sup>*</sup>&nbsp;originally developed for GraphQL-IO by same author</div>
