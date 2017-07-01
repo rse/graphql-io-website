@@ -36,16 +36,16 @@
             </div>
             <div class="nav">
                 <ul class="nav nav-pills nav-justified">
-                    <li role="presentation" class="select-button active"><a href="#overview-technologies">Overview</a></li>
+                    <li role="presentation" class="select-button active"><a href="#overview">Overview</a></li>
                     <li role="presentation" class="select-button"><a href="#sample">Client &amp; Server Sample</a></li>
                     <li role="presentation" class="select-button"><a href="#testdrive">Test-Drive</a></li>
-                    <li role="presentation" class="select-button"><a href="#architecture-design">Architecture</a></li>
+                    <li role="presentation" class="select-button"><a href="#architecture">Architecture</a></li>
                 </ul>
             </div>
             <div class="content">
                 <div class="swiper-container">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide slide1" data-hash="overview-technologies">
+                        <div class="swiper-slide slide1" data-hash="overview">
                             <div class="g-row" style="width: 100%;">
                                 <div class="g-col-5-12">
                                     <div class="headline">Overview</div>
@@ -95,7 +95,7 @@
                                     </p>
                                     <p>
                                         For details on how these libraries are itegrated and play together, please see
-                                        the <a href="#architecture-design">Architecture</a> page.
+                                        the <a href="#architecture">Architecture</a> page.
                                     </p>
                                     <p>
                                         <div class="footnote"><sup>*</sup>&nbsp;originally developed for GraphQL-IO by same author</div>
@@ -179,10 +179,17 @@ await sv.disconnect()
                         <div class="swiper-slide slide4" data-hash="architecture-design">
                             <div class="g-row" style="width: 100%;">
                                 <div class="g-col-12-12">
-                                    <div class="headline">Architecture &amp; Design</div>
-                                    <a href="graphql-io-architecture.pdf">
-                                        <img src="graphql-io-architecture.png" width="100%"/>
-                                    </a>
+                                    <div class="headline">Architecture</div>
+                                    <p>
+                                        GraphQL-IO is primarily the glue between a dozen GraphQL partial solutions
+                                        and as such is actually an extensive integration effort. The following
+                                        diagram shows the functional view of GraphQL-IO on both the client and server side.
+                                    </p>
+                                    <p>
+                                        <a href="graphql-io-architecture.pdf">
+                                            <img src="graphql-io-architecture.png" width="100%"/>
+                                        </a>
+                                    </p>
                                 </div>
                             </div>
                         </div>
