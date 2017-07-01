@@ -10,6 +10,7 @@
         <link href="lib/typopro/TypoPRO-DejaVu/TypoPRO-DejaVu.css" rel="stylesheet" type="text/css"/>
         <link href="lib/typopro/TypoPRO-Journal/TypoPRO-Journal.css" rel="stylesheet" type="text/css"/>
         <link href="lib/font-awesome/font-awesome.css" rel="stylesheet" type="text/css"/>
+        <script src="lib/syntax/syntax.js" type="text/javascript"></script>
         <script src="lib/jquery/jquery.js" type="text/javascript"></script>
         <script src="lib/swiper/swiper.jquery.js" type="text/javascript"></script>
         <link href="lib/swiper/swiper.css" rel="stylesheet" type="text/css"/>
@@ -36,6 +37,8 @@
             <div class="nav">
                 <ul class="nav nav-pills nav-justified">
                     <li role="presentation" class="select-button active"><a href="#overview-technologies">Overview &amp; Technologies</a></li>
+                    <li role="presentation" class="select-button"><a href="#client-sample">Client Sample Code</a></li>
+                    <li role="presentation" class="select-button"><a href="#server-sample">Server Sample Code</a></li>
                     <li role="presentation" class="select-button"><a href="#architecture-design">Architecture &amp; Design</a></li>
                 </ul>
             </div>
@@ -54,7 +57,7 @@
                                     </p>
                                     <p>
                                         While <a href="http://graphql.org/">GraphQL</a> is just a formal language
-                                        specification and <a href="https://github.com/graphql/graphql-js">GraphQL.js</a> a reference
+                                        specification and <a href="http://graphql.org/graphql-js/">GraphQL.js</a> a reference
                                         implementation of a corresponding execution engine,
                                         <b>GraphQL-IO</b> is an entire "all-in-one" GraphQL-based network communication solution
                                         for both client and server.
@@ -92,7 +95,7 @@
                                     </p>
                                     <p>
                                         For details on how these libraries are itegrated and play together, please see
-                                        the <a href="#architecture-design">Architecture &amp; Design<a> page.
+                                        the <a href="#architecture-design">Architecture &amp; Design</a> page.
                                     </p>
                                     <p>
                                         <div class="footnote"><sup>*</sup>&nbsp;originally developed for GraphQL-IO by same author</div>
@@ -100,7 +103,76 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide slide2" data-hash="architecture-design">
+                        <div class="swiper-slide slide2" data-hash="client-sample">
+                            <div class="g-row" style="width: 100%;">
+                                <div class="g-col-12-12">
+                                    <div class="headline">Client Sample Code</div>
+                                    <p>
+                                        The following is a simple Hello World client.<br/>
+                                        For a more elaborate example, see this
+                                        <a href="https://github.com/rse/graphql-io-client/blob/master/sample/sample.js">Client Sample</a>.
+                                    </p>
+                                    <p>
+                                        <div data-syntax="javascript">
+(async () =&gt; {
+
+    /*  Hello World Client  */
+    const { Client } = require("graphql-io-client")
+    const sv = new Client({ url: "http://127.0.0.1:12345/api" })
+    sv.on("debug", ({ log }) =&gt; console.log(log))
+    await sv.connect()
+    let name = process.argv[2]
+    let result = await sv.query(name ? `{ hello(name: "${name}") }` : "{ hello }")
+    console.log(result.data)
+    await sv.disconnect()
+
+})().catch((err) =&gt; {
+    console.log("ERROR", err)
+})
+                                        </div>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide slide3" data-hash="server-sample">
+                            <div class="g-row" style="width: 100%;">
+                                <div class="g-col-12-12">
+                                    <div class="headline">Server Sample Code</div>
+                                    <p>
+                                        The following is a simple Hello World server.<br/>
+                                        For a more elaborate example, see this
+                                        <a href="https://github.com/rse/graphql-io-server/blob/master/sample/sample.js">Server Sample</a>.
+                                    </p>
+                                    <p>
+                                        <div data-syntax="javascript">
+(async () =&gt; {
+
+    /*  Hello World Server  */
+    const { Server } = require("graphql-io-server")
+    const sv = new Server({ url: "http://127.0.0.1:12345/api" })
+    sv.on("debug", ({ log }) =&gt; console.log(log))
+    sv.at("graphql-resolver", () =&gt; ({
+        Root: {
+            hello: [ `
+                #   hello world
+                hello(name: String): String`,
+                (obj, args, ctx, info) =&gt; {
+                    return args.name ? args.name : "world"
+                }
+            ]
+        }
+    }))
+    await sv.start()
+
+})().catch((err) =&gt; {
+    console.log("ERROR", err)
+})
+                                        </div>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide slide4" data-hash="architecture-design">
                             <div class="g-row" style="width: 100%;">
                                 <div class="g-col-12-12">
                                     <div class="headline">Architecture &amp; Design</div>
@@ -125,7 +197,7 @@
             </div>
         </div>
         <div class="notice">
-            STILL ALPHA STAGE:<br/>
+            STILL BETA STAGE:<br/>
             EARLY ADOPTERS ONLY!
         </div>
     </body>

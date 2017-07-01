@@ -111,6 +111,8 @@ div.footer {
 }
 .content .swiper-slide.slide3 {
 }
+.content .swiper-slide.slide4 {
+}
 .content .swiper-pagination-bullet-active {
     background-color: #336699;
 }
@@ -184,4 +186,30 @@ div.headline {
     color: #999999;
 }
 
+.syntax {
+    font-size: 90%;
+    background-color: #ffffff;
+    font-family: "TypoPRO DejaVu Sans Mono";
+    white-space: pre;
+    line-height: 1.15;
+}
+.syntax .syntax-marker {
+    border-top: 1px solid #f0f0d0;
+    background-color: #ffffe0;
+    border-bottom: 1px solid #f0f0d0;
+}
+.syntax .syntax-anchor {
+    color: #cc3333;
+}
+.syntax .syntax-comment {
+    font-style: italic;
+    color: #999999;
+}
+.syntax .syntax-keyword {
+    font-weight: bold;
+    color: #6699cc;
+}
+.syntax .syntax-literal {
+    color: #c08030;
+}
 

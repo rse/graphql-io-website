@@ -23,6 +23,10 @@ module.exports = function (grunt) {
                 src: [ "bower_components/jquery/dist/jquery.js" ],
                 dest: "lib/jquery/jquery.js"
             },
+            "syntax": {
+                src: [ "bower_components/syntax/lib/syntax.browser.js" ],
+                dest: "lib/syntax/syntax.js"
+            },
             "swiper": {
                 src: [ "bower_components/swiper/dist/js/swiper.js" ],
                 dest: "lib/swiper/swiper.js"
