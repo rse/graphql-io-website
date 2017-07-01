@@ -95,7 +95,7 @@
                                     </p>
                                     <p>
                                         For details on how these libraries are itegrated and play together, please see
-                                        the <a href="#architecture-design">Architecture &amp; Design</a> page.
+                                        the <a href="#architecture-design">Architecture</a> page.
                                     </p>
                                     <p>
                                         <div class="footnote"><sup>*</sup>&nbsp;originally developed for GraphQL-IO by same author</div>
@@ -112,17 +112,8 @@
                                         <div data-syntax="javascript">
 const { Server } = require("graphql-io-server")
 const sv = new Server({ url: "http://127.0.0.1:12345/api" })
-sv.on("debug", ({ log }) =&gt; console.log(log))
 sv.at("graphql-resolver", () =&gt; ({
-    Root: {
-        hello: [ `
-            #   hello world
-            hello(name: String): String`,
-            (obj, args, ctx, info) =&gt; {
-                return args.name ? args.name : "world"
-            }
-        ]
-    }
+    Root: { hello: [ "hello: String", () =&gt; "world" ] }
 }))
 await sv.start()
                                         </div>
@@ -132,10 +123,8 @@ await sv.start()
                                         <div data-syntax="javascript">
 const { Client } = require("graphql-io-client")
 const sv = new Client({ url: "http://127.0.0.1:12345/api" })
-sv.on("debug", ({ log }) =&gt; console.log(log))
 await sv.connect()
-let name = process.argv[2]
-let result = await sv.query(name ? `{ hello(name: "${name}") }` : "{ hello }")
+let result = await sv.query("{ hello }")
 console.log(result.data)
 await sv.disconnect()
                                         </div>
