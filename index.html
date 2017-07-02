@@ -52,21 +52,21 @@
                                     <div class="headline">Overview</div>
                                     <p>
                                         <b>GraphQL-IO</b> is an opinionated MIT-licensed <a href="http://graphql.org/">GraphQL</a>-based
-                                        network communication framework for
-                                        JavaScript clients, running under either <a href="https://nodejs.org/">Node.js</a> or
-                                        in the Browser, and JavaScript servers, running under Node.js.
+                                        network communication framework for JavaScript. The client-side runs under either <a href="https://nodejs.org/">Node.js</a> or
+                                        in the Browser. The server-side runs under Node.js.
                                     </p>
                                     <p>
                                         While <a href="http://graphql.org/">GraphQL</a> is just a formal language
-                                        specification and <a href="http://graphql.org/graphql-js/">GraphQL.js</a> a reference
+                                        specification and <a href="http://graphql.org/graphql-js/">GraphQL.js</a> is a reference
                                         implementation of a corresponding execution engine,
-                                        <b>GraphQL-IO</b> is an entire "all-in-one" GraphQL-based network communication solution
+                                        <b>GraphQL-IO</b> is an entire <i>all-in-one</i> GraphQL-based network communication solution
                                         for both client and server.
                                     </p>
                                     <p>
                                         It integrates the necessary third-party libraries,
                                         provides a convenient and flexible API and especially supports real-time
-                                        updates of GraphQL queries (aka GraphQL subscriptions) over WebSocket channels.
+                                        updates of GraphQL queries (aka GraphQL subscriptions) over a high-performance, framed,
+                                        and optionally compressed, WebSocket channel.
                                     </p>
                                     <p>
                                         <b>GraphQL-IO</b> was originally developed for use in the <a href="http://gemstonejs.com/">Gemstone</a>
@@ -99,7 +99,7 @@
                                         the <a href="#architecture">Architecture</a> page.
                                     </p>
                                     <p>
-                                        <div class="footnote"><sup>*</sup>&nbsp;originally developed for GraphQL-IO by same author</div>
+                                        <div class="footnote"><sup>*</sup>&nbsp;originally developed for <b>GraphQL-IO</b> by same author to fill the gap</div>
                                     </p>
                                 </div>
                             </div>
@@ -109,8 +109,8 @@
                                 <div class="g-col-9-12">
                                     <div class="headline">Client &amp; Server Sample</div>
                                     <p>
-                                    A trivial Hello World sample (in ES2017 syntax) for GraphQL-IO-Client and GraphQL-IO-Server can look like the following.
-                                    For a more elaborate example, check out the sample code of the <a href="#testdrive">Test-Drive</a> page.
+                                    A trivial Hello World sample (in ES2017 syntax) for <b>GraphQL-IO</b> Client and <b>GraphQL-IO</b> Server can look like the following.
+                                    For a more elaborate example, check out the sample code underlying the <a href="#testdrive">Test-Drive</a> page.
                                     </p>
                                     <p>
                                         <b>Hello World Server:</b>
@@ -130,8 +130,8 @@ const { Client } = require("graphql-io-client")
 const sv = new Client({ url: "http://127.0.0.1:12345/api" })
 await sv.connect()
 let result = await sv.query("{ hello }")
-console.log(result) // -&gt; { data: { hello: "world" } }
 await sv.disconnect()
+console.log(result) // -&gt; { data: { hello: "world" } }
                                         </div>
                                     </p>
                                 </div>
@@ -143,11 +143,11 @@ await sv.disconnect()
                                     <div class="headline">Test-Drive Server-Side:</div>
                                     <p>
                                         To test-drive a full-featured <a href="https://github.com/rse/graphql-io-server/blob/master/sample/sample.js">Sample Server</a>,
-                                        which even supports full GraphQL query subscriptions, follow the following steps:
+                                        which uses an underlying ORM and a RDBMS and even supports full GraphQL query subscriptions, follow the following steps:
                                     </p>
                                     <ul class="cn">
                                         <li class="cn-1-i">
-                                            Download and prepare <a href="http://npmjs.com/graphql-io-server">GraphQL-IO-Server</a>:<br/>
+                                            Download and prepare <a href="http://npmjs.com/graphql-io-server"><b>GraphQL-IO</b> Server</a>:<br/>
                                             <code class="swiper-no-swiping">$ git clone http://github.com/rse/graphql-io-server</code><br/>
                                             <code class="swiper-no-swiping">$ cd graphql-io-server</code><br/>
                                             <code class="swiper-no-swiping">$ npm install</code><br/>
@@ -160,15 +160,15 @@ await sv.disconnect()
                                         </li>
                                     </ul>
                                 </div>
-                                <div class="g-off-1-12 g-col-6-12">
+                                <div class="g-off-1-12 g-col-5-12">
                                     <div class="headline">Test-Drive Client-Side:</div>
                                     <p>
                                         To test-drive a full-featured <a href="https://github.com/rse/graphql-io-client/blob/master/sample/sample.js">Sample Client</a>,
-                                        which uses GraphQL query subscriptions, follow the following steps:
+                                        which leverages GraphQL query subscriptions to get informed about concurrent data updates, follow the following steps:
                                     </p>
                                     <ul class="cn">
                                         <li class="cn-1-i">
-                                            Download and prepare <a href="http://npmjs.com/graphql-io-client">GraphQL-IO-Client</a>:<br/>
+                                            Download and prepare <a href="http://npmjs.com/graphql-io-client"><b>GraphQL-IO</b> Client</a>:<br/>
                                             <code class="swiper-no-swiping">$ git clone http://github.com/rse/graphql-io-client</code><br/>
                                             <code class="swiper-no-swiping">$ cd graphql-io-client</code><br/>
                                             <code class="swiper-no-swiping">$ npm install</code><br/>
@@ -188,9 +188,11 @@ await sv.disconnect()
                                 <div class="g-col-12-12">
                                     <div class="headline">Architecture</div>
                                     <p>
-                                        GraphQL-IO is primarily the glue between a dozen GraphQL partial solutions
+                                        As mentioned on the <a href="#overview">Overview</a> page,
+                                        <b>GraphQL-IO</b> is primarily the glue between a dozen GraphQL partial solutions
                                         and as such is actually an extensive integration effort. The following
-                                        diagram shows the functional view of GraphQL-IO on both the client and server side.
+                                        diagram shows the <i>Functional View</i> of the <b>GraphQL-IO</b> architecture
+                                        on both the client and server side.
                                     </p>
                                     <p>
                                         <a href="graphql-io-architecture.pdf">
@@ -205,13 +207,13 @@ await sv.disconnect()
                                 <div class="g-col-9-12">
                                     <div class="headline">Application Programming Interface</div>
                                     <p>
-                                        GraphQL-IO has two Application Programming Interfaces (APIs): GraphQL-IO-Client and GraphQL-IO-Server.
-                                        Although GraphQL is written in ES2017, each one is specified as a TypeScript definition with comments:
+                                    <b>GraphQL-IO</b> has two Application Programming Interfaces (APIs): <b>GraphQL-IO</b> Client and <b>GraphQL-IO</b> Server.
+                                        Although GraphQL is written in ES2017, each one is specified as a separate TypeScript definition with describing comments:
                                     </p>
                                     <p>
                                         <ul>
-                                            <li><a href="https://github.com/rse/graphql-io-client/blob/master/src/graphql-io.d.ts">GraphQL-IO-Client API TypeScript Definition</a></li>
-                                            <li><a href="https://github.com/rse/graphql-io-server/blob/master/src/graphql-io.d.ts">GraphQL-IO-Server API TypeScript Definition</a></li>
+                                            <li><a href="https://github.com/rse/graphql-io-client/blob/master/src/graphql-io.d.ts"><b>GraphQL-IO</b> Client API TypeScript Definition</a></li>
+                                            <li><a href="https://github.com/rse/graphql-io-server/blob/master/src/graphql-io.d.ts"><b>GraphQL-IO</b> Server API TypeScript Definition</a></li>
                                         </ul>
                                     </p>
                                     <p>

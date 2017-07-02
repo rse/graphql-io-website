@@ -193,6 +193,7 @@ div.headline {
     white-space: pre;
     line-height: 1.15;
     border-left: 2px solid #99ccff;
+    margin-left: 2px;
     padding-left: 20px;
 }
 .syntax .syntax-marker {
