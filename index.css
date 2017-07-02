@@ -131,7 +131,7 @@ div.footer {
     position: absolute;
     left: 20px;
     top: 45%;
-    color: #336699;
+    color: #cccccc;
     font-size: 40px;
 }
 .content .icons .fa-chevron-circle-right {
@@ -139,7 +139,7 @@ div.footer {
     position: absolute;
     right: 20px;
     top: 45%;
-    color: #336699;
+    color: #cccccc;
     font-size: 40px;
 }
 
