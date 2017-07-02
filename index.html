@@ -37,9 +37,10 @@
             <div class="nav">
                 <ul class="nav nav-pills nav-justified">
                     <li role="presentation" class="select-button active"><a href="#overview">Overview</a></li>
-                    <li role="presentation" class="select-button"><a href="#sample">Client &amp; Server Sample</a></li>
+                    <li role="presentation" class="select-button"><a href="#sample">Client/Server Sample</a></li>
                     <li role="presentation" class="select-button"><a href="#testdrive">Test-Drive</a></li>
                     <li role="presentation" class="select-button"><a href="#architecture">Architecture</a></li>
+                    <li role="presentation" class="select-button"><a href="#api">API</a></li>
                 </ul>
             </div>
             <div class="content">
@@ -189,6 +190,28 @@ await sv.disconnect()
                                         <a href="graphql-io-architecture.pdf">
                                             <img src="graphql-io-architecture.png" width="100%"/>
                                         </a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide slide5" data-hash="api">
+                            <div class="g-row" style="width: 100%;">
+                                <div class="g-col-9-12">
+                                    <div class="headline">Application Programming Interface</div>
+                                    <p>
+                                        GraphQL-IO has two Application Programming Interfaces (APIs): GraphQL-IO-Client and GraphQL-IO-Server.
+                                        Although GraphQL is written in ES2017, each one is specified as a TypeScript definition with comments:
+                                    </p>
+                                    <p>
+                                        <ul>
+                                            <li><a href="https://github.com/rse/graphql-io-client/blob/master/src/graphql-io.d.ts">GraphQL-IO-Client API TypeScript Definition</a></li>
+                                            <li><a href="https://github.com/rse/graphql-io-server/blob/master/src/graphql-io.d.ts">GraphQL-IO-Server API TypeScript Definition</a></li>
+                                        </ul>
+                                    </p>
+                                    <p>
+                                        To see most of the APIs in practice, check out the source code of the
+                                        <a href="https://github.com/rse/graphql-io-client/blob/master/sample/sample.js">Sample Client</a> and the
+                                        <a href="https://github.com/rse/graphql-io-server/blob/master/sample/sample.js">Sample Server</a>.
                                     </p>
                                 </div>
                             </div>
