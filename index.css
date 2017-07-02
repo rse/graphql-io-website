@@ -14,7 +14,7 @@ body {
 
 code {
     font-family: "TypoPRO DejaVu Sans Mono";
-    font-size: 11.5pt;
+    font-size: 11.0pt;
     background-color: #f0f8ff;
     color: #333333;
 }
@@ -187,10 +187,13 @@ div.headline {
 }
 
 .syntax {
+    font-size: 11.0pt;
     background-color: #ffffff;
     font-family: "TypoPRO DejaVu Sans Mono";
     white-space: pre;
     line-height: 1.15;
+    border-left: 2px solid #99ccff;
+    padding-left: 20px;
 }
 .syntax .syntax-marker {
     border-top: 1px solid #f0f0d0;
@@ -206,9 +209,9 @@ div.headline {
 }
 .syntax .syntax-keyword {
     font-weight: bold;
-    color: #6699cc;
+    color: #336699;
 }
 .syntax .syntax-literal {
-    color: #c08030;
+    color: #6699cc;
 }
 

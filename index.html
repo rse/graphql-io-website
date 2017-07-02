@@ -51,7 +51,7 @@
                                 <div class="g-col-5-12">
                                     <div class="headline">Overview</div>
                                     <p>
-                                        <b>GraphQL-IO</b> is an opinionated <a href="http://graphql.org/">GraphQL</a>-based
+                                        <b>GraphQL-IO</b> is an opinionated MIT-licensed <a href="http://graphql.org/">GraphQL</a>-based
                                         network communication framework for
                                         JavaScript clients, running under either <a href="https://nodejs.org/">Node.js</a> or
                                         in the Browser, and JavaScript servers, running under Node.js.
@@ -108,8 +108,12 @@
                             <div class="g-row" style="width: 100%;">
                                 <div class="g-col-12-12">
                                     <div class="headline">Client &amp; Server Sample</div>
-                                    <b>Hello World Server:</b>
                                     <p>
+                                    A trivial Hello World sample (in ES2017 syntax) for GraphQL-IO-Client and GraphQL-IO-Server can look like the following.
+                                    For a more elaborate example, check out the sample code of the <a href="#testdrive">Test-Drive</a> page.
+                                    </p>
+                                    <p>
+                                        <b>Hello World Server:</b>
                                         <div data-syntax="javascript">
 const { Server } = require("graphql-io-server")
 const sv = new Server({ url: "http://127.0.0.1:12345/api" })
@@ -119,14 +123,14 @@ sv.at("graphql-resolver", () =&gt; ({
 await sv.start()
                                         </div>
                                     </p>
-                                    <b>Hello World Client:</b>
                                     <p>
+                                        <b>Hello World Client:</b>
                                         <div data-syntax="javascript">
 const { Client } = require("graphql-io-client")
 const sv = new Client({ url: "http://127.0.0.1:12345/api" })
 await sv.connect()
 let result = await sv.query("{ hello }")
-console.log(result.data)
+console.log(result) // -&gt; { data: { hello: "world" } }
 await sv.disconnect()
                                         </div>
                                     </p>
@@ -143,14 +147,15 @@ await sv.disconnect()
                                     </p>
                                     <ul class="cn">
                                         <li class="cn-1-i">
-                                            Install <a href="http://npmjs.com/graphql-io-server">GraphQL-IO-Server</a>:<br/>
-                                            <code class="swiper-no-swiping">$ npm install graphql-io-server</code><br/>
+                                            Download and prepare <a href="http://npmjs.com/graphql-io-server">GraphQL-IO-Server</a>:<br/>
+                                            <code class="swiper-no-swiping">$ git clone http://github.com/rse/graphql-io-server</code><br/>
+                                            <code class="swiper-no-swiping">$ cd graphql-io-server</code><br/>
+                                            <code class="swiper-no-swiping">$ npm install</code><br/>
                                             <p/>
                                         </li>
                                         <li class="cn-2-i">
-                                            Fire up the Sample Server:<br/>
-                                            <code class="swiper-no-swiping">$ cd graphql-io-server/sample</code><br/>
-                                            <code class="swiper-no-swiping">$ node sample.js</code><br/>
+                                            Fire up the <a href="https://github.com/rse/graphql-io-server/blob/master/sample/sample.js">Sample Server</a>:<br/>
+                                            <code class="swiper-no-swiping">$ node sample/sample.js</code><br/>
                                             <p/>
                                         </li>
                                     </ul>
@@ -163,14 +168,15 @@ await sv.disconnect()
                                     </p>
                                     <ul class="cn">
                                         <li class="cn-1-i">
-                                            Install <a href="http://npmjs.com/graphql-io-client">GraphQL-IO-Client</a>:<br/>
-                                            <code class="swiper-no-swiping">$ npm install graphql-io-client</code><br/>
+                                            Download and prepare <a href="http://npmjs.com/graphql-io-client">GraphQL-IO-Client</a>:<br/>
+                                            <code class="swiper-no-swiping">$ git clone http://github.com/rse/graphql-io-client</code><br/>
+                                            <code class="swiper-no-swiping">$ cd graphql-io-client</code><br/>
+                                            <code class="swiper-no-swiping">$ npm install</code><br/>
                                             <p/>
                                         </li>
                                         <li class="cn-2-i">
-                                            Fire up the Sample Client:<br/>
-                                            <code class="swiper-no-swiping">$ cd graphql-io-client/sample</code><br/>
-                                            <code class="swiper-no-swiping">$ node sample.js</code><br/>
+                                            Fire up the <a href="https://github.com/rse/graphql-io-client/blob/master/sample/sample.js">Sample Client</a>:<br/>
+                                            <code class="swiper-no-swiping">$ node sample/sample.js</code><br/>
                                             <p/>
                                         </li>
                                     </ul>
