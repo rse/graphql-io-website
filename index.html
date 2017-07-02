@@ -116,21 +116,21 @@
                                         <b>Hello World Server:</b>
                                         <div data-syntax="javascript">
 const { Server } = require("graphql-io-server")
-const sv = new Server({ url: "http://127.0.0.1:12345/api" })
-sv.at("graphql-resolver", () =&gt; ({
+const server = new Server({ url: "http://127.0.0.1:12345/api" })
+server.at("graphql-resolver", () =&gt; ({
     Root: { hello: [ "hello: String", () =&gt; "world" ] }
 }))
-await sv.start()
+await server.start()
                                         </div>
                                     </p>
                                     <p>
                                         <b>Hello World Client:</b>
                                         <div data-syntax="javascript">
 const { Client } = require("graphql-io-client")
-const sv = new Client({ url: "http://127.0.0.1:12345/api" })
-await sv.connect()
-let result = await sv.query("{ hello }")
-await sv.disconnect()
+const client = new Client({ url: "http://127.0.0.1:12345/api" })
+await client.connect()
+let result = await client.query("{ hello }")
+await client.disconnect()
 console.log(result) // -&gt; { data: { hello: "world" } }
                                         </div>
                                     </p>
