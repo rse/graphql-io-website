@@ -37,8 +37,7 @@
             <div class="nav">
                 <ul class="nav nav-pills nav-justified">
                     <li role="presentation" class="select-button active"><a href="#overview">Overview</a></li>
-                    <li role="presentation" class="select-button"><a href="#sample">Client/Server Sample</a></li>
-                    <li role="presentation" class="select-button"><a href="#testdrive">Test-Drive</a></li>
+                    <li role="presentation" class="select-button"><a href="#sample">Sample</a></li>
                     <li role="presentation" class="select-button"><a href="#architecture">Architecture</a></li>
                     <li role="presentation" class="select-button"><a href="#api">API</a></li>
                 </ul>
@@ -107,10 +106,10 @@
                         <div class="swiper-slide slide2" data-hash="sample">
                             <div class="g-row" style="width: 100%;">
                                 <div class="g-col-9-12">
-                                    <div class="headline">Client &amp; Server Sample</div>
+                                    <div class="headline">Sample</div>
                                     <p>
                                     A trivial Hello World sample (in ES2017 syntax) for <b>GraphQL-IO</b> Client and <b>GraphQL-IO</b> Server can look like the following.
-                                    For a more elaborate example, check out the sample code underlying the <a href="#testdrive">Test-Drive</a> page.
+                                    For more elaborate examples, check out the <b>GraphQL-IO</b> <a href="https://github.com/rse/graphql-io/tree/master/sample/">Samples</a>.
                                     </p>
                                     <p>
                                         <b>Hello World Server:</b>
@@ -134,52 +133,6 @@ await client.disconnect()
 console.log(result) // -&gt; { data: { hello: "world" } }
                                         </div>
                                     </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide slide3" data-hash="testdrive">
-                            <div class="g-row" style="width: 100%;">
-                                <div class="g-col-5-12">
-                                    <div class="headline">Test-Drive Server-Side:</div>
-                                    <p>
-                                        To test-drive a full-featured <a href="https://github.com/rse/graphql-io-server/blob/master/sample/sample.js">Sample Server</a>,
-                                        which uses an underlying ORM and a RDBMS and even supports full GraphQL query subscriptions, follow the following steps:
-                                    </p>
-                                    <ul class="cn">
-                                        <li class="cn-1-i">
-                                            Download and prepare <a href="http://npmjs.com/graphql-io-server"><b>GraphQL-IO</b> Server</a>:<br/>
-                                            <code class="swiper-no-swiping">$ git clone http://github.com/rse/graphql-io-server</code><br/>
-                                            <code class="swiper-no-swiping">$ cd graphql-io-server</code><br/>
-                                            <code class="swiper-no-swiping">$ npm install</code><br/>
-                                            <p/>
-                                        </li>
-                                        <li class="cn-2-i">
-                                            Fire up the <a href="https://github.com/rse/graphql-io-server/blob/master/sample/sample.js">Sample Server</a>:<br/>
-                                            <code class="swiper-no-swiping">$ node sample/sample.js</code><br/>
-                                            <p/>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="g-off-1-12 g-col-5-12">
-                                    <div class="headline">Test-Drive Client-Side:</div>
-                                    <p>
-                                        To test-drive a full-featured <a href="https://github.com/rse/graphql-io-client/blob/master/sample/sample.js">Sample Client</a>,
-                                        which leverages GraphQL query subscriptions to get informed about concurrent data updates, follow the following steps:
-                                    </p>
-                                    <ul class="cn">
-                                        <li class="cn-1-i">
-                                            Download and prepare <a href="http://npmjs.com/graphql-io-client"><b>GraphQL-IO</b> Client</a>:<br/>
-                                            <code class="swiper-no-swiping">$ git clone http://github.com/rse/graphql-io-client</code><br/>
-                                            <code class="swiper-no-swiping">$ cd graphql-io-client</code><br/>
-                                            <code class="swiper-no-swiping">$ npm install</code><br/>
-                                            <p/>
-                                        </li>
-                                        <li class="cn-2-i">
-                                            Fire up the <a href="https://github.com/rse/graphql-io-client/blob/master/sample/sample.js">Sample Client</a>:<br/>
-                                            <code class="swiper-no-swiping">$ node sample/sample.js</code><br/>
-                                            <p/>
-                                        </li>
-                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -217,9 +170,8 @@ console.log(result) // -&gt; { data: { hello: "world" } }
                                         </ul>
                                     </p>
                                     <p>
-                                        To see most of the APIs in practice, check out the source code of the
-                                        <a href="https://github.com/rse/graphql-io-client/blob/master/sample/sample.js">Sample Client</a> and the
-                                        <a href="https://github.com/rse/graphql-io-server/blob/master/sample/sample.js">Sample Server</a>.
+                                        To see most of the API functionality in practice, check out the
+                                        <b>GraphQL-IO</b> <a href="https://github.com/rse/graphql-io/tree/master/sample/">Samples</a>.
                                     </p>
                                 </div>
                             </div>
