@@ -1,21 +1,48 @@
 
 (function ($) {
     $(document).ready(function () {
-        var swiper = $(".swiper-container").swiper({
-            direction:           "horizontal",
-            loop:                false,
-            effect:              "slide",
-            pagination:          ".swiper-pagination",
-            prevButton:          ".icons .fa-chevron-circle-left",
-            nextButton:          ".icons .fa-chevron-circle-right",
-            scrollbar:           ".swiper-scrollbar",
-            simulateTouch:       true,
-            noSwiping:           true,
-            noSwipingClass:      "swiper-no-swiping",
-            keyboardControl:     true,
-            mousewheelControl:   false,
-            paginationClickable: true,
-            hashnav:             true
+        var swiper
+        swiper = new Swiper(".swiper-container", {
+            freeMode: false,
+            direction: "horizontal",
+            loop: false,
+            keyboard: true,
+            mousewheel: false,
+            pagination: {
+                el: ".swiper-pagination",
+                type: "bullets",
+                clickable: true,
+            },
+            hashNavigation: {
+            },
+            preventClicks: false,
+            scrollbar: {
+                el: ".swiper-scrollbar",
+                draggable: true,
+                hide: false,
+                snapOnRelease: true
+            },
+            on: {
+                slideChange: function () {
+                    if (!swiper)
+                        return
+                    $(".icons .fa-chevron-circle-left").show()
+                    $(".icons .fa-chevron-circle-right").show()
+                    console.log(swiper, this)
+                    if (swiper.activeIndex === 0)
+                        $(".icons .fa-chevron-circle-left").hide()
+                    else if (swiper.activeIndex === 3)
+                        $(".icons .fa-chevron-circle-right").hide()
+                }
+            }
+        })
+        $(".icons .fa-chevron-circle-left").click(function (ev) {
+            ev.preventDefault()
+            swiper.slidePrev()
+        })
+        $(".icons .fa-chevron-circle-right").click(function (ev) {
+            ev.preventDefault()
+            swiper.slideNext()
         })
         $(window).on("hashchange", function () {
             var id = location.hash.slice(1)
@@ -26,7 +53,6 @@
                 slides.push($(this).attr("data-hash"))
             })
             var idx = slides.indexOf(id)
-            console.log(id, slides, idx)
             if (idx >= 0)
                 swiper.slideTo(idx, 500, true)
         })

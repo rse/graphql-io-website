@@ -24,8 +24,18 @@
         "grunt-contrib-copy":         "~1.0.0",
         "grunt-bower-install-simple": "~1.2.4"
     },
+    "dependencies": {
+        "normalize.css":              "8.0.0",
+        "font-awesome":               "4.7.0",
+        "bootstrap":                  "3.3.7",
+        "jquery":                     "3.3.1",
+        "swiper":                     "4.1.6",
+        "syntax":                     "1.4.0",
+        "gridless":                   "1.0.3",
+        "typopro-web":                "3.7.7",
+        "combinumerals":              "1.1.0"
+    },
     "scripts": {
-        "prepublish":                 "bower install",
         "build":                      "grunt"
     }
 }
