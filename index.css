@@ -46,7 +46,7 @@ div.canvas {
 }
 
 div.header {
-    background-color: #e0e0e0;
+    background-color: #222222;
     padding: 20px 80px 20px 80px;
     display: flex;
     flex-direction: row;
@@ -81,12 +81,18 @@ div.nav {
 
 div.footer {
     display: block;
-    background-color: #e0e0e0;
+    background-color: #222222;
     padding: 20px 80px 20px 80px;
     text-align: center;
-    color: #333333;
+    color: #c0c0c0;
     flex-basis: auto;
     font-size: 80%;
+}
+div.footer a,
+div.footer a:hover,
+div.footer a:visited {
+    color: #ffffff;
+    text-decoration: none;
 }
 
 .content {
