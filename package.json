@@ -17,22 +17,20 @@
     "homepage": "https://github.com/rse/graphql-io-website",
     "bugs":     "https://github.com/rse/graphql-io-website/issues",
     "devDependencies": {
-        "bower":                      "~1.8.2",
-        "grunt":                      "~1.0.2",
-        "grunt-cli":                  "~1.2.0",
-        "grunt-contrib-clean":        "~1.1.0",
-        "grunt-contrib-copy":         "~1.0.0",
-        "grunt-bower-install-simple": "~1.2.4"
+        "grunt":                      "1.0.3",
+        "grunt-cli":                  "1.2.0",
+        "grunt-contrib-clean":        "1.1.0",
+        "grunt-contrib-copy":         "1.0.0"
     },
     "dependencies": {
         "normalize.css":              "8.0.0",
         "font-awesome":               "4.7.0",
         "bootstrap":                  "3.3.7",
         "jquery":                     "3.3.1",
-        "swiper":                     "4.1.6",
-        "syntax":                     "1.4.0",
-        "gridless":                   "1.0.3",
-        "typopro-web":                "3.7.7",
+        "swiper":                     "4.3.3",
+        "syntax":                     "1.4.5",
+        "gridless":                   "1.0.4",
+        "typopro-web":                "3.7.9",
         "combinumerals":              "1.1.0"
     },
     "scripts": {
