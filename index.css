@@ -67,7 +67,7 @@ div.header .image img {
 }
 @media (min-width: 1000px) {
     div.header .image img {
-        width: 300px;
+        width: 200px;
         margin: auto;
     }
 }
