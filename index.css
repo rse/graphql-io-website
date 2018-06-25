@@ -110,6 +110,8 @@ div.footer a:visited {
 .content .swiper-slide {
     width:  calc(100% - 200px) !important;
     margin: 0 100px 0 100px;
+    height: 100%;
+    overflow: auto;
 }
 .content .swiper-slide.slide1 {
 }
